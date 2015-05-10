@@ -1,7 +1,6 @@
-#+TITLE: Patrick Smyth
+#+TITLE: Patrick Smyth CV
 #+OPTIONS: num:nil \n:t html-postamble:nil
 
-* Curriculum Vitae
 ** Contact
 
 patricksmyth01@gmail.com
