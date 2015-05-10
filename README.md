@@ -1,4 +1,5 @@
 <div id="table-of-contents">
+<h1>Patrick Smyth CV</h1>
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
