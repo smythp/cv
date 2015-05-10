@@ -1,7 +1,8 @@
-#+TITLE: Patrick Smyth Curriculum Vitae
+#+TITLE: Patrick Smyth
 #+OPTIONS: num:nil \n:t html-postamble:nil
 
-* Contact
+* Curriculum Vitae
+** Contact
 
 patricksmyth01@gmail.com
 www.digitalscholar.net
@@ -11,7 +12,7 @@ www.digitalscholar.net
 Woodside, NY 11377
 917.675.0925
 
-* Education
+** Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)
 	In progress, third year
@@ -20,7 +21,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 	magna cum laude, 2009
 	Highest Honors in English
 
-* Awards, Distinctions, and Fellowships 
+** Awards, Distinctions, and Fellowships 
 	
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center
 2014-present
@@ -43,7 +44,7 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 Highest Honors, Honors English Thesis, Kenyon College, Ohio
 2009
 
-* Invited Talks
+** Invited Talks
 
 "Introducing DH Box"
 Media Res: Lightning Talks by NYC Graduate Students on DH Projects
@@ -53,7 +54,7 @@ Media Res: Lightning Talks by NYC Graduate Students on DH Projects
 METRO Conference
 2015 — New York, NY
 
-* Presentations
+** Presentations
 
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"
@@ -84,18 +85,18 @@ CUNY IT Conference
 Northeast Modern Language Associate Conference (NeMLA)
 2013 — Boston, MA
 
-* Publications
+** Publications
 
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
 IGI Global, 2014
 
-* Classes Taught
+** Classes Taught
 
 Literature and Place: Imagining Utopia, Queens College, Spring 2014
 Intro Composition (Information Technology theme), Queens College, Spring 2014
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
-* Workshops Taught
+** Workshops Taught
 
 "Intro to Web Scraping with Python" (CUNY Graduate Center ITP Program, Spring 2015)
 "Bootstrap Basics" (CUNY Graduate Center ITP Program, Spring 2015)
@@ -105,7 +106,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 2x “WordPress 2: Advanced Techniques,” CUNY Graduate Center ITP Program, Fall 2014
 “WordPress: Theming and Design,” CUNY Graduate Center ITP Program, Spring 2013
 
-* Projects
+** Projects
 
 Documentation and Outreach Specialist, DH Box, CUNY Graduate Center
 2014 - present
@@ -122,7 +123,7 @@ Website Redesign, Association of Independent Information Professionals (AIIP)
 Dialogue and Scripting, AI Patient Platform, MATRIC Research
 2012 – 2013
 
-* Technical Skills
+** Technical Skills
 
 Programming: Python, PHP, Lisp
 Python Libraries: Scrapy, BeautifulSoup, NLTK
@@ -131,7 +132,7 @@ Content Management: Drupal, WordPress, Pelican
 Databases: mySQL, SQLite
 Security: PGP, GPG
 Other: UNIX, Bash scripting
-* Professional Experience
+** Professional Experience
 
 Web Analyst, Red House Consulting, Washington, PA
 November 2011 – present
