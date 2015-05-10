@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Patrick Smyth CV</title>
+<!-- 2015-05-10 Sun 00:49 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Patrick Smyth" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Patrick Smyth CV</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">Contact</a></li>
+<li><a href="#sec-2">Education</a></li>
+<li><a href="#sec-3">Awards, Distinctions, and Fellowships</a></li>
+<li><a href="#sec-4">Invited Talks</a></li>
+<li><a href="#sec-5">Presentations</a></li>
+<li><a href="#sec-6">Publications</a></li>
+<li><a href="#sec-7">Classes Taught</a></li>
+<li><a href="#sec-8">Workshops Taught</a></li>
+<li><a href="#sec-9">Projects</a></li>
+<li><a href="#sec-10">Technical Skills</a></li>
+<li><a href="#sec-11">Professional Experience</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">Contact</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+patricksmyth01@gmail.com<br  />
+www.digitalscholar.net<br  />
+@psmyth01<br  />
+</p>
+
+<p>
+58-69 43rd Ave, 2A<br  />
+Woodside, NY 11377<br  />
+917.675.0925<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">Education</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Ph.D. in English, Graduate Center of the City University of New York (CUNY)<br  />
+        In progress, third year<br  />
+</p>
+
+<p>
+Double B.A. in English and German Literature, Kenyon College, Ohio<br  />
+        magna cum laude, 2009<br  />
+        Highest Honors in English<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">Awards, Distinctions, and Fellowships</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center<br  />
+2014-present<br  />
+</p>
+
+<p>
+Outreach and Documentation Specialist, DH Box NEH Startup Grant<br  />
+2014-present<br  />
+</p>
+
+<p>
+ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center<br  />
+2014<br  />
+</p>
+
+<p>
+Convener, Utopian Studies Seminar, CUNY Graduate Center<br  />
+2012-present<br  />
+</p>
+
+<p>
+Graduate Research Assistantship, David Greetham, CUNY Graduate Center<br  />
+2012<br  />
+</p>
+
+<p>
+Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany<br  />
+2009-2010<br  />
+</p>
+
+<p>
+Highest Honors, Honors English Thesis, Kenyon College, Ohio<br  />
+2009<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">Invited Talks</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+"Introducing DH Box"<br  />
+Media Res: Lightning Talks by NYC Graduate Students on DH Projects<br  />
+2015 — New York, NY<br  />
+</p>
+
+<p>
+“DH Box: A Push-Button Digital Humanities Laboratory”<br  />
+METRO Conference<br  />
+2015 — New York, NY<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5">Presentations</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+"Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"<br  />
+Digital Materials conference<br  />
+Galway, Ireland 2015<br  />
+</p>
+
+<p>
+“To Look upon Verdure”: Transplantation and Cultivation in Mansfield Park"<br  />
+Association for the Study of Literature and the Environment Conference<br  />
+2015 — Moscow, ID<br  />
+</p>
+
+<p>
+"Divining Disenchantment: Pneuma and Early Modern Science"<br  />
+Warren Susman Graduate Conference<br  />
+2015 — New Brunswick, NJ<br  />
+</p>
+
+<p>
+"The Currency of Belief: Magical Realism and Fantasy in Neil Gaiman’s American Gods"<br  />
+International Conference for the Fantastic in the Arts<br  />
+2015 — Orlando, FL<br  />
+</p>
+
+<p>
+“DH Box: A Push-Button Digital Humanities Laboratory in the Cloud”<br  />
+CUNY IT Conference<br  />
+2014 — New York, NY<br  />
+</p>
+
+<p>
+“The Present and Future of the Digital Graduate Center”<br  />
+CUNY IT Conference<br  />
+2014 — New York, NY<br  />
+</p>
+
+<p>
+“Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century”<br  />
+Northeast Modern Language Associate Conference (NeMLA)<br  />
+2013 — Boston, MA<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6">Publications</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture<br  />
+IGI Global, 2014<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7">Classes Taught</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+Literature and Place: Imagining Utopia, Queens College, Spring 2014<br  />
+Intro Composition (Information Technology theme), Queens College, Spring 2014<br  />
+Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8">Workshops Taught</h2>
+<div class="outline-text-2" id="text-8">
+<p>
+"Intro to Web Scraping with Python" (CUNY Graduate Center ITP Program, Spring 2015)<br  />
+"Bootstrap Basics" (CUNY Graduate Center ITP Program, Spring 2015)<br  />
+2x "Intro to Programming with Python," (CUNY Graduate Center Digital Fellows, Spring 2015)<br  />
+“Getting Started with DH Box” (CUNY Graduate Center Digital Fellows, Fall 2014)<br  />
+“Intro to Programming with Python,” CUNY Graduate Center Digital Fellows, Fall 2014<br  />
+2x “WordPress 2: Advanced Techniques,” CUNY Graduate Center ITP Program, Fall 2014<br  />
+“WordPress: Theming and Design,” CUNY Graduate Center ITP Program, Spring 2013<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9">Projects</h2>
+<div class="outline-text-2" id="text-9">
+<p>
+Documentation and Outreach Specialist, DH Box, CUNY Graduate Center<br  />
+2014 - present<br  />
+</p>
+
+<p>
+Platform Redesign, Writing Studies Tree, CUNY Graduate Center<br  />
+2014 - present<br  />
+</p>
+
+<p>
+Contributing Historian, More Than a Mapp, CUNY Graduate Center<br  />
+2013 – 2014<br  />
+</p>
+
+<p>
+Website Redesign, Association of Independent Information Professionals (AIIP)<br  />
+2013-2014<br  />
+</p>
+
+<p>
+Dialogue and Scripting, AI Patient Platform, MATRIC Research<br  />
+2012 – 2013<br  />
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10">Technical Skills</h2>
+<div class="outline-text-2" id="text-10">
+<p>
+Programming: Python, PHP, Lisp<br  />
+Python Libraries: Scrapy, BeautifulSoup, NLTK<br  />
+Web Frameworks: Flask, Django, Bootstrap<br  />
+Content Management: Drupal, WordPress, Pelican<br  />
+Databases: mySQL, SQLite<br  />
+Security: PGP, GPG<br  />
+Other: UNIX, Bash scripting<br  />
+</p>
+</div>
+</div>
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11">Professional Experience</h2>
+<div class="outline-text-2" id="text-11">
+<p>
+Web Analyst, Red House Consulting, Washington, PA<br  />
+November 2011 – present<br  />
+</p>
+
+<p>
+ESL Teacher, Language Studies International<br  />
+2012<br  />
+</p>
+
+<p>
+SAT Tutor, Kaplan<br  />
+2011 - 2012<br  />
+</p>
+
+<p>
+English Instructor, CCB School<br  />
+2011<br  />
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>
