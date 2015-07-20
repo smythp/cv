@@ -1,35 +1,23 @@
 <div id="table-of-contents">
-<h1>Patrick Smyth CV</h1>
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">Contact</a></li>
-<li><a href="#sec-2">Education</a></li>
-<li><a href="#sec-3">Awards, Distinctions, and Fellowships</a></li>
-<li><a href="#sec-4">Invited Talks</a></li>
-<li><a href="#sec-5">Presentations</a></li>
-<li><a href="#sec-6">Publications</a></li>
-<li><a href="#sec-7">Classes Taught</a></li>
-<li><a href="#sec-8">Workshops Taught</a></li>
-<li><a href="#sec-9">Projects</a></li>
-<li><a href="#sec-10">Technical Skills</a></li>
-<li><a href="#sec-11">Professional Experience</a></li>
+<li><a href="#sec-1">Education</a></li>
+<li><a href="#sec-2">Awards, Distinctions, and Fellowships</a></li>
+<li><a href="#sec-3">Invited Talks</a></li>
+<li><a href="#sec-4">Presentations</a></li>
+<li><a href="#sec-5">Publications</a></li>
+<li><a href="#sec-6">Classes Taught</a></li>
+<li><a href="#sec-7">Workshops Taught</a></li>
+<li><a href="#sec-8">Projects</a></li>
+<li><a href="#sec-9">Technical Skills</a></li>
+<li><a href="#sec-10">Professional Experience</a></li>
 </ul>
 </div>
 </div>
 
 
-# Contact<a id="sec-1" name="sec-1"></a>
-
-patricksmyth01@gmail.com  
-www.digitalscholar.net  
-@psmyth01  
-
-58-69 43rd Ave, 2A  
-Woodside, NY 11377  
-917.675.0925  
-
-# Education<a id="sec-2" name="sec-2"></a>
+# Education<a id="sec-1" name="sec-1"></a>
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)  
         In progress, third year  
@@ -38,7 +26,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
         magna cum laude, 2009  
         Highest Honors in English  
 
-# Awards, Distinctions, and Fellowships<a id="sec-3" name="sec-3"></a>
+# Awards, Distinctions, and Fellowships<a id="sec-2" name="sec-2"></a>
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
 2014-present  
@@ -61,7 +49,7 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 Highest Honors, Honors English Thesis, Kenyon College, Ohio  
 2009  
 
-# Invited Talks<a id="sec-4" name="sec-4"></a>
+# Invited Talks<a id="sec-3" name="sec-3"></a>
 
 "Introducing DH Box"  
 Media Res: Lightning Talks by NYC Graduate Students on DH Projects  
@@ -71,7 +59,7 @@ Media Res: Lightning Talks by NYC Graduate Students on DH Projects
 METRO Conference  
 2015 — New York, NY  
 
-# Presentations<a id="sec-5" name="sec-5"></a>
+# Presentations<a id="sec-4" name="sec-4"></a>
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
@@ -101,18 +89,18 @@ CUNY IT Conference
 Northeast Modern Language Associate Conference (NeMLA)  
 2013 — Boston, MA  
 
-# Publications<a id="sec-6" name="sec-6"></a>
+# Publications<a id="sec-5" name="sec-5"></a>
 
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
 IGI Global, 2014  
 
-# Classes Taught<a id="sec-7" name="sec-7"></a>
+# Classes Taught<a id="sec-6" name="sec-6"></a>
 
 Literature and Place: Imagining Utopia, Queens College, Spring 2014  
 Intro Composition (Information Technology theme), Queens College, Spring 2014  
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013  
 
-# Workshops Taught<a id="sec-8" name="sec-8"></a>
+# Workshops Taught<a id="sec-7" name="sec-7"></a>
 
 "Intro to Web Scraping with Python" (CUNY Graduate Center ITP Program, Spring 2015)  
 "Bootstrap Basics" (CUNY Graduate Center ITP Program, Spring 2015)  
@@ -122,7 +110,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 2x “WordPress 2: Advanced Techniques,” CUNY Graduate Center ITP Program, Fall 2014  
 “WordPress: Theming and Design,” CUNY Graduate Center ITP Program, Spring 2013  
 
-# Projects<a id="sec-9" name="sec-9"></a>
+# Projects<a id="sec-8" name="sec-8"></a>
 
 Documentation and Outreach Specialist, DH Box, CUNY Graduate Center  
 2014 - present  
@@ -139,7 +127,7 @@ Website Redesign, Association of Independent Information Professionals (AIIP)
 Dialogue and Scripting, AI Patient Platform, MATRIC Research  
 2012 – 2013  
 
-# Technical Skills<a id="sec-10" name="sec-10"></a>
+# Technical Skills<a id="sec-9" name="sec-9"></a>
 
 Programming: Python, PHP, Lisp  
 Python Libraries: Scrapy, BeautifulSoup, NLTK  
@@ -149,7 +137,7 @@ Databases: mySQL, SQLite
 Security: PGP, GPG  
 Other: UNIX, Bash scripting  
 
-# Professional Experience<a id="sec-11" name="sec-11"></a>
+# Professional Experience<a id="sec-10" name="sec-10"></a>
 
 Web Analyst, Red House Consulting, Washington, PA  
 November 2011 – present  
