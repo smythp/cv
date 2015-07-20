@@ -1,16 +1,6 @@
 #+TITLE: Patrick Smyth CV
 #+OPTIONS: num:nil \n:t html-postamble:nil
 
-** Contact
-
-patricksmyth01@gmail.com
-www.digitalscholar.net
-@psmyth01
-
-58-69 43rd Ave, 2A
-Woodside, NY 11377
-917.675.0925
-
 ** Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)
