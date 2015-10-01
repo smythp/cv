@@ -51,6 +51,10 @@ Highest Honors, Honors English Thesis, Kenyon College, Ohio
 
 # Invited Talks<a id="sec-3" name="sec-3"></a>
 
+"Lightning Talk: DH Box"  
+NEH Project Director's Meeting  
+2015 - Washington, DC  
+
 "Introducing DH Box"  
 Media Res: Lightning Talks by NYC Graduate Students on DH Projects  
 2015 — New York, NY  
@@ -63,7 +67,7 @@ METRO Conference
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
-Galway, Ireland 2015  
+2015 - Galway, Ireland  
 
 “To Look upon Verdure”: Transplantation and Cultivation in Mansfield Park"  
 Association for the Study of Literature and the Environment Conference  
@@ -129,7 +133,7 @@ Dialogue and Scripting, AI Patient Platform, MATRIC Research
 
 # Technical Skills<a id="sec-9" name="sec-9"></a>
 
-Programming: Python, PHP, Lisp  
+Programming: Python, PHP, Lisp (Common, Emacs)  
 Python Libraries: Scrapy, BeautifulSoup, NLTK  
 Web Frameworks: Flask, Django, Bootstrap  
 Content Management: Drupal, WordPress, Pelican  
