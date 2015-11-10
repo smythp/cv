@@ -34,7 +34,6 @@ Highest Honors, Honors English Thesis, Kenyon College, Ohio
 2009
 
 ** Invited Talks
-
 "Lightning Talk: DH Box"
 NEH Project Director's Meeting
 2015 - Washington, DC
@@ -48,7 +47,6 @@ METRO Conference
 2015 — New York, NY
 
 ** Presentations
-
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"
 Digital Materials conference
 2015 - Galway, Ireland 
@@ -89,7 +87,10 @@ Intro Composition (Information Technology theme), Queens College, Spring 2014
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 ** Workshops Taught
-
+"Intro to the Command Line" (GC Digital Fellows/CUNY GC Library, Fall 2015)
+"Setting Up a Development Environment" (GC Digital Praxis Seminar, Fall 2015)
+2x "Intro to Programming with Python" (CUNy Graduate Center Digital Fellows, Fall 2015)
+"CSS and Bootstrap" (CUNY Graduate Center ITP Program, Fall 2015)
 "Intro to Web Scraping with Python" (CUNY Graduate Center ITP Program, Spring 2015)
 "Bootstrap Basics" (CUNY Graduate Center ITP Program, Spring 2015)
 2x "Intro to Programming with Python," (CUNY Graduate Center Digital Fellows, Spring 2015)

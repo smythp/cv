@@ -106,6 +106,10 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught<a id="sec-7" name="sec-7"></a>
 
+"Intro to the Command Line" (GC Digital Fellows/CUNY GC Library, Fall 2015)  
+"Setting Up a Development Environment" (GC Digital Praxis Seminar, Fall 2015)  
+2x "Intro to Programming with Python" (CUNy Graduate Center Digital Fellows, Fall 2015)  
+"CSS and Bootstrap" (CUNY Graduate Center ITP Program, Fall 2015)  
 "Intro to Web Scraping with Python" (CUNY Graduate Center ITP Program, Spring 2015)  
 "Bootstrap Basics" (CUNY Graduate Center ITP Program, Spring 2015)  
 2x "Intro to Programming with Python," (CUNY Graduate Center Digital Fellows, Spring 2015)  
