@@ -3,11 +3,11 @@
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">Education</a></li>
-<li><a href="#sec-2">Awards, Distinctions, and Fellowships</a></li>
-<li><a href="#sec-3">Service</a></li>
-<li><a href="#sec-4">Invited Talks</a></li>
-<li><a href="#sec-5">Presentations</a></li>
-<li><a href="#sec-6">Publications</a></li>
+<li><a href="#sec-2">Awards, Grants, and Fellowships</a></li>
+<li><a href="#sec-3">Publications</a></li>
+<li><a href="#sec-4">Service</a></li>
+<li><a href="#sec-5">Invited Talks</a></li>
+<li><a href="#sec-6">Presentations</a></li>
 <li><a href="#sec-7">Classes Taught</a></li>
 <li><a href="#sec-8">Workshops Taught</a></li>
 <li><a href="#sec-9">Projects</a></li>
@@ -27,7 +27,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
         magna cum laude, 2009  
         Highest Honors in English (Honors thesis)  
 
-# Awards, Distinctions, and Fellowships<a id="sec-2" name="sec-2"></a>
+# Awards, Grants, and Fellowships<a id="sec-2" name="sec-2"></a>
 
 Provost's Digital Innovation Grant, "Futures Past Archive"  
 2015-2016  
@@ -47,7 +47,12 @@ Graduate Research Assistantship, David Greetham, CUNY Graduate Center
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany  
 2009-2010  
 
-# Service<a id="sec-3" name="sec-3"></a>
+# Publications<a id="sec-3" name="sec-3"></a>
+
+“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
+IGI Global, 2014  
+
+# Service<a id="sec-4" name="sec-4"></a>
 
 Convener, GC Python User Group (PUG)  
 2015-present  
@@ -58,7 +63,7 @@ Chair, GC Digital Research Bootcamp Curriculum Committee
 Convener, Utopian Studies Seminar, CUNY Graduate Center  
 2012-present  
 
-# Invited Talks<a id="sec-4" name="sec-4"></a>
+# Invited Talks<a id="sec-5" name="sec-5"></a>
 
 "Lightning Talk: DH Box"  
 NEH Project Director's Meeting  
@@ -72,7 +77,7 @@ Media Res: Lightning Talks by NYC Graduate Students on DH Projects
 METRO Conference  
 2015 — New York, NY  
 
-# Presentations<a id="sec-5" name="sec-5"></a>
+# Presentations<a id="sec-6" name="sec-6"></a>
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
@@ -101,11 +106,6 @@ CUNY IT Conference
 “Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century”  
 Northeast Modern Language Associate Conference (NeMLA)  
 2013 — Boston, MA  
-
-# Publications<a id="sec-6" name="sec-6"></a>
-
-“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
-IGI Global, 2014  
 
 # Classes Taught<a id="sec-7" name="sec-7"></a>
 

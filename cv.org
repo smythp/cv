@@ -10,10 +10,10 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 	magna cum laude, 2009
 	Highest Honors in English (Honors thesis)
 
-** Awards, Distinctions, and Fellowships 
+** Awards, Grants, and Fellowships
 Provost's Digital Innovation Grant, "Futures Past Archive"
 2015-2016
-	
+
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center
 2014-present
 
@@ -28,6 +28,11 @@ Graduate Research Assistantship, David Greetham, CUNY Graduate Center
 
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 2009-2010
+** Publications
+
+“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
+IGI Global, 2014
+
 ** Service
 Convener, GC Python User Group (PUG)
 2015-present
@@ -79,11 +84,6 @@ CUNY IT Conference
 “Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century” 
 Northeast Modern Language Associate Conference (NeMLA)
 2013 — Boston, MA
-
-** Publications
-
-“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
-IGI Global, 2014
 
 ** Classes Taught
 
