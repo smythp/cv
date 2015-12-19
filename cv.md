@@ -132,7 +132,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 Principal Investigator, Futures Past Archive  
 2015 - 2016  
 
-Developer and Outreach Specialist, DH Box, CUNY Graduate Center  
+Developer and Documentation Specialist, DH Box, CUNY Graduate Center  
 2014 - present  
 
 Platform Redesign, Writing Studies Tree, CUNY Graduate Center  
