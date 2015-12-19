@@ -28,19 +28,26 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
         Highest Honors in English (Honors thesis)  
 
 # Awards, Grants, and Fellowships<a id="sec-2" name="sec-2"></a>
+<<<<<<< HEAD
 
 Provost's Digital Innovation Grant, "Futures Past Archive"  
 2015-2016  
+=======
+>>>>>>> 3dd7285fc993b81fc67bc05f945492272b828cb0
 
-Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
-2014-present  
+# Publications<a id="sec-3" name="sec-3"></a>
 
+<<<<<<< HEAD
 Developer and Documentation Specialist, DH Box NEH Startup Grant  
 2014-present  
+=======
+“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
+IGI Global, 2014  
+>>>>>>> 3dd7285fc993b81fc67bc05f945492272b828cb0
 
-ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center  
-2014  
+# Service<a id="sec-4" name="sec-4"></a>
 
+<<<<<<< HEAD
 Graduate Research Assistantship, David Greetham, CUNY Graduate Center  
 2012  
 
@@ -63,6 +70,17 @@ Chair, GC Digital Research Bootcamp Curriculum Committee
 Convener, Utopian Studies Seminar, CUNY Graduate Center  
 2012-present  
 
+=======
+Convener, GC Python User Group (PUG)  
+2015-present  
+
+Chair, GC Digital Research Bootcamp Curriculum Committee  
+2015-2016  
+
+Convener, Utopian Studies Seminar, CUNY Graduate Center  
+2012-present  
+
+>>>>>>> 3dd7285fc993b81fc67bc05f945492272b828cb0
 # Invited Talks<a id="sec-5" name="sec-5"></a>
 
 "Lightning Talk: DH Box"  
