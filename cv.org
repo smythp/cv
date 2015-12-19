@@ -11,7 +11,6 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 	Highest Honors in English (Honors thesis)
 
 ** Awards, Grants, and Fellowships
-<<<<<<< HEAD
 Provost's Digital Innovation Grant, "Futures Past Archive"
 2015-2016
 
@@ -23,23 +22,17 @@ Developer and Documentation Specialist, DH Box NEH Startup Grant
 
 ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center
 2014
-=======
-** Publications
->>>>>>> 3dd7285fc993b81fc67bc05f945492272b828cb0
 
-“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
-IGI Global, 2014
+Graduate Research Assistantship, David Greetham, CUNY Graduate Center
+2012
 
-<<<<<<< HEAD
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 2009-2010
-** Publications
 
+** Publications
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
 IGI Global, 2014
 
-=======
->>>>>>> 3dd7285fc993b81fc67bc05f945492272b828cb0
 ** Service
 Convener, GC Python User Group (PUG)
 2015-present
