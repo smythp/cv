@@ -4,14 +4,15 @@
 <ul>
 <li><a href="#sec-1">Education</a></li>
 <li><a href="#sec-2">Awards, Distinctions, and Fellowships</a></li>
-<li><a href="#sec-3">Invited Talks</a></li>
-<li><a href="#sec-4">Presentations</a></li>
-<li><a href="#sec-5">Publications</a></li>
-<li><a href="#sec-6">Classes Taught</a></li>
-<li><a href="#sec-7">Workshops Taught</a></li>
-<li><a href="#sec-8">Projects</a></li>
-<li><a href="#sec-9">Technical Skills</a></li>
-<li><a href="#sec-10">Professional Experience</a></li>
+<li><a href="#sec-3">Service</a></li>
+<li><a href="#sec-4">Invited Talks</a></li>
+<li><a href="#sec-5">Presentations</a></li>
+<li><a href="#sec-6">Publications</a></li>
+<li><a href="#sec-7">Classes Taught</a></li>
+<li><a href="#sec-8">Workshops Taught</a></li>
+<li><a href="#sec-9">Projects</a></li>
+<li><a href="#sec-10">Technical Skills</a></li>
+<li><a href="#sec-11">Professional Experience</a></li>
 </ul>
 </div>
 </div>
@@ -20,25 +21,25 @@
 # Education<a id="sec-1" name="sec-1"></a>
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)  
-        In progress, third year  
+        In progress, fourth year  
 
 Double B.A. in English and German Literature, Kenyon College, Ohio  
         magna cum laude, 2009  
-        Highest Honors in English  
+        Highest Honors in English (Honors thesis)  
 
 # Awards, Distinctions, and Fellowships<a id="sec-2" name="sec-2"></a>
+
+Provost's Digital Innovation Grant, "Futures Past Archive"  
+2015-2016  
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
 2014-present  
 
-Outreach and Documentation Specialist, DH Box NEH Startup Grant  
+Developer and Documentation Specialist, DH Box NEH Startup Grant  
 2014-present  
 
 ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center  
 2014  
-
-Convener, Utopian Studies Seminar, CUNY Graduate Center  
-2012-present  
 
 Graduate Research Assistantship, David Greetham, CUNY Graduate Center  
 2012  
@@ -46,10 +47,18 @@ Graduate Research Assistantship, David Greetham, CUNY Graduate Center
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany  
 2009-2010  
 
-Highest Honors, Honors English Thesis, Kenyon College, Ohio  
-2009  
+# Service<a id="sec-3" name="sec-3"></a>
 
-# Invited Talks<a id="sec-3" name="sec-3"></a>
+Convener, GC Python User Group (PUG)  
+2015-present  
+
+Chair, GC Digital Research Bootcamp Curriculum Committee  
+2015-2016  
+
+Convener, Utopian Studies Seminar, CUNY Graduate Center  
+2012-present  
+
+# Invited Talks<a id="sec-4" name="sec-4"></a>
 
 "Lightning Talk: DH Box"  
 NEH Project Director's Meeting  
@@ -63,7 +72,7 @@ Media Res: Lightning Talks by NYC Graduate Students on DH Projects
 METRO Conference  
 2015 — New York, NY  
 
-# Presentations<a id="sec-4" name="sec-4"></a>
+# Presentations<a id="sec-5" name="sec-5"></a>
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
@@ -93,18 +102,18 @@ CUNY IT Conference
 Northeast Modern Language Associate Conference (NeMLA)  
 2013 — Boston, MA  
 
-# Publications<a id="sec-5" name="sec-5"></a>
+# Publications<a id="sec-6" name="sec-6"></a>
 
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
 IGI Global, 2014  
 
-# Classes Taught<a id="sec-6" name="sec-6"></a>
+# Classes Taught<a id="sec-7" name="sec-7"></a>
 
 Literature and Place: Imagining Utopia, Queens College, Spring 2014  
 Intro Composition (Information Technology theme), Queens College, Spring 2014  
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013  
 
-# Workshops Taught<a id="sec-7" name="sec-7"></a>
+# Workshops Taught<a id="sec-8" name="sec-8"></a>
 
 "Intro to the Command Line" (GC Digital Fellows/CUNY GC Library, Fall 2015)  
 "Setting Up a Development Environment" (GC Digital Praxis Seminar, Fall 2015)  
@@ -118,7 +127,10 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 2x “WordPress 2: Advanced Techniques,” CUNY Graduate Center ITP Program, Fall 2014  
 “WordPress: Theming and Design,” CUNY Graduate Center ITP Program, Spring 2013  
 
-# Projects<a id="sec-8" name="sec-8"></a>
+# Projects<a id="sec-9" name="sec-9"></a>
+
+Principal Investigator, Futures Past Archive  
+2015 - 2016  
 
 Documentation and Outreach Specialist, DH Box, CUNY Graduate Center  
 2014 - present  
@@ -135,7 +147,7 @@ Website Redesign, Association of Independent Information Professionals (AIIP)
 Dialogue and Scripting, AI Patient Platform, MATRIC Research  
 2012 – 2013  
 
-# Technical Skills<a id="sec-9" name="sec-9"></a>
+# Technical Skills<a id="sec-10" name="sec-10"></a>
 
 Programming: Python, PHP, Lisp (Common, Emacs)  
 Python Libraries: Scrapy, BeautifulSoup, NLTK  
@@ -145,7 +157,7 @@ Databases: mySQL, SQLite
 Security: PGP, GPG  
 Other: UNIX, Bash scripting  
 
-# Professional Experience<a id="sec-10" name="sec-10"></a>
+# Professional Experience<a id="sec-11" name="sec-11"></a>
 
 Web Analyst, Red House Consulting, Washington, PA  
 November 2011 – present  
