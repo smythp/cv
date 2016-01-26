@@ -115,6 +115,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught<a id="sec-8" name="sec-8"></a>
 
+"Automation and Scraping with the Twitter API" (GC Digital Research Bootcamp, Winter 2016)  
 "Intro to the Command Line" (GC Digital Fellows/CUNY GC Library, Fall 2015)  
 "Setting Up a Development Environment" (GC Digital Praxis Seminar, Fall 2015)  
 2x "Intro to Programming with Python" (CUNy Graduate Center Digital Fellows, Fall 2015)  
