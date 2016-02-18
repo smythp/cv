@@ -60,6 +60,9 @@ Convener, GC Python User Group (PUG)
 Chair, GC Digital Research Bootcamp Curriculum Committee  
 2015-2016  
 
+Member, GC Digital Research Bootcamp Steering Committee  
+2015-2016  
+
 Convener, Utopian Studies Seminar, CUNY Graduate Center  
 2012-present  
 
@@ -78,6 +81,10 @@ METRO Conference
 2015 — New York, NY  
 
 # Presentations<a id="sec-6" name="sec-6"></a>
+
+"DH Box: A Digital Humanities Laboratory in the Cloud"  
+CUNY DHI: Building a Digital Humanities Community”  
+2015 - New York, NY  
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
