@@ -83,12 +83,12 @@ METRO Conference
 # Presentations<a id="sec-6" name="sec-6"></a>
 
 "DH Box: A Digital Humanities Laboratory in the Cloud"  
-CUNY DHI: Building a Digital Humanities Community”  
-2015 - New York, NY  
+CUNY DHI: Building a Digital Humanities Community  
+2015 — New York, NY  
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
-2015 - Galway, Ireland  
+2015 — Galway, Ireland  
 
 “To Look upon Verdure”: Transplantation and Cultivation in Mansfield Park"  
 Association for the Study of Literature and the Environment Conference  
@@ -143,13 +143,13 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 # Projects<a id="sec-9" name="sec-9"></a>
 
 Principal Investigator, Futures Past Archive  
-2015 - 2016  
+2015 — 2016  
 
 Developer and Documentation Specialist, DH Box, CUNY Graduate Center  
-2014 - present  
+2014 — present  
 
 Platform Redesign, Writing Studies Tree, CUNY Graduate Center  
-2014 - present  
+2014 — present  
 
 Contributing Historian, More Than a Mapp, CUNY Graduate Center  
 2013 – 2014  
@@ -179,7 +179,7 @@ ESL Teacher, Language Studies International
 2012  
 
 SAT Tutor, Kaplan  
-2011 - 2012  
+2011 — 2012  
 
 English Instructor, CCB School  
 2011
