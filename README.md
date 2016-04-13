@@ -64,7 +64,7 @@ Member, GC Digital Research Bootcamp Steering Committee
 2015-2016  
 
 Convener, Utopian Studies Seminar, CUNY Graduate Center  
-2012-present  
+2012-2015  
 
 # Invited Talks<a id="sec-5" name="sec-5"></a>
 
@@ -125,6 +125,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 "Collaboration and Writing Workflows with Git and GitHub" (GC Digital Fellows, Spring 2016)  
 "Social Media Scraping with the Twitter API" (NYC Digital Humanities Week, Spring 2016)  
 "Intro to Programming with Python" (NYC Digital Humanities Week, Spring 2016)  
+"Intro Python with DH Box" (ITP Program, Spring 2016)  
 "Responsive Design with Bootstrap" (ITP Program, Spring 2016)  
 "Intro to HTML and CSS" (ITP Program, Spring 2016)  
 "Automation and Scraping with the Twitter API" (GC Digital Research Bootcamp, Winter 2016)  
@@ -162,12 +163,15 @@ Dialogue and Scripting, AI Patient Platform, MATRIC Research
 
 # Technical Skills<a id="sec-10" name="sec-10"></a>
 
-Programming: Python, PHP, Lisp (Common, Emacs)  
-Python Libraries: Scrapy, BeautifulSoup, NLTK  
-Web Frameworks: Flask, Django, Bootstrap  
-Content Management: Drupal, WordPress, Pelican  
+Languages: Python, PHP, Lisp (Common, Emacs)  
+Python Libraries: Scrapy, BeautifulSoup, NLTK, SQLAlchemy, Jinja2  
+Web Frameworks: Flask, Django  
+Front-end Frameworks: Bootstrap  
+Content Management: Jekyll, WordPress, Drupal  
 Databases: mySQL, SQLite  
 Security: PGP, GPG  
+Markup: HTML, CSS, markdown  
+Containerization: Docker, VirtualBox  
 Other: UNIX, Bash scripting  
 
 # Professional Experience<a id="sec-11" name="sec-11"></a>
