@@ -85,7 +85,7 @@ METRO Conference
 "Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change"  
 HASTAC conference  
 2016 - Tempe, Arizona  
-(Travel award from Futures Imitative)  
+(Travel award from Futures Initiative)  
 
 "DH Box: A Digital Humanities Laboratory in the Cloud"  
 CUNY DHI: Building a Digital Humanities Community  
