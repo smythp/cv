@@ -30,7 +30,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 # Awards, Grants, and Fellowships<a id="sec-2" name="sec-2"></a>
 
 Provost's Digital Innovation Grant, "Futures Past Archive"  
-2015-2016  
+2015-2016 and 2016-2017  
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
 2014-present  
@@ -82,13 +82,19 @@ METRO Conference
 
 # Presentations<a id="sec-6" name="sec-6"></a>
 
+"Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change"  
+HASTAC conference  
+2016 - Tempe, Arizona  
+(Travel award from Futures Imitative)  
+
 "DH Box: A Digital Humanities Laboratory in the Cloud"  
 CUNY DHI: Building a Digital Humanities Community  
-2015 — New York, NY  
+2015 — New York, New York  
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"  
 Digital Materials conference  
 2015 — Galway, Ireland  
+(Travel funding from GC Digital Initiatives)  
 
 “To Look upon Verdure”: Transplantation and Cultivation in Mansfield Park"  
 Association for the Study of Literature and the Environment Conference  
@@ -104,11 +110,11 @@ International Conference for the Fantastic in the Arts
 
 “DH Box: A Push-Button Digital Humanities Laboratory in the Cloud”  
 CUNY IT Conference  
-2014 — New York, NY  
+2014 — New York, New York  
 
 “The Present and Future of the Digital Graduate Center”  
 CUNY IT Conference  
-2014 — New York, NY  
+2014 — New York, New York  
 
 “Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century”  
 Northeast Modern Language Associate Conference (NeMLA)  
@@ -146,7 +152,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 Principal Investigator, Futures Past Archive  
 2015 — 2016  
 
-Developer and Documentation Specialist, DH Box, CUNY Graduate Center  
+Developer, DH Box, CUNY Graduate Center  
 2014 — present  
 
 Platform Redesign, Writing Studies Tree, CUNY Graduate Center  
