@@ -85,10 +85,15 @@ METRO Conference
 
 # Presentations<a id="sec-6" name="sec-6"></a>
 
+"DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"  
+Canadian Soceity for Digital Humanities, Congress 2016  
+2016 - Calgary, Alberta  
+(Travel funding from National Endowment for the Humanities)  
+
 "Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change"  
 HASTAC conference  
 2016 - Tempe, Arizona  
-(Travel award from Futures Initiative)  
+(Travel award from GC Futures Initiative)  
 
 "DH Box: A Digital Humanities Laboratory in the Cloud"  
 CUNY DHI: Building a Digital Humanities Community  
