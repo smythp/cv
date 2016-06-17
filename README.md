@@ -131,6 +131,9 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught<a id="sec-8" name="sec-8"></a>
 
+"Introduction to Wen Frameworks with Flask" (GC Digital Research Institute, Summer 2016)  
+"Social Media Scraping with the Twitter API" (GC Digital Research Institute, Summer 2016)  
+"Introduction to the Command Line" (GC Digital Research Institute, Summer 2016)  
 "Collaboration and Writing Workflows with Git and GitHub" (GC Digital Fellows, Spring 2016)  
 "Social Media Scraping with the Twitter API" (NYC Digital Humanities Week, Spring 2016)  
 "Intro to Programming with Python" (NYC Digital Humanities Week, Spring 2016)  
