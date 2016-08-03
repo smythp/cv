@@ -1,5 +1,5 @@
 #+TITLE: Patrick Smyth CV
-#+OPTIONS: num:nil \n:t html-postamble:nil
+#+OPTIONS: num:nil \n:t html-postamble:nil toc:nil
 
 ** Education
 
@@ -114,7 +114,7 @@ Intro Composition (Information Technology theme), Queens College, Spring 2014
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 ** Workshops Taught
-"Introduction to Wen Frameworks with Flask" (GC Digital Research Institute, Summer 2016)  
+"Introduction to Web Frameworks with Flask" (GC Digital Research Institute, Summer 2016)  
 "Social Media Scraping with the Twitter API" (GC Digital Research Institute, Summer 2016)  
 "Introduction to the Command Line" (GC Digital Research Institute, Summer 2016)  
 "Collaboration and Writing Workflows with Git and GitHub" (GC Digital Fellows, Spring 2016)
