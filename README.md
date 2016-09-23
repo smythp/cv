@@ -9,8 +9,14 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 
 # Awards, Grants, and Fellowships
 
+NYCDH Graduate Student Digital Project Award (Second place)  
+2016  
+
 Provost's Digital Innovation Grant, "Futures Past Archive"  
 2015-2016 and 2016-2017  
+
+Digital Writing Fellowship, Qwriting, Queens College  
+2016 - present  
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
 2014-present  
@@ -67,6 +73,11 @@ METRO Conference
 2015 — New York, NY  
 
 # Presentations
+
+"Blind Hackers: Accessibility by Other Means"  
+a11y Accessibility Camp  
+2016 - New York, NY  
+[View online](https://www.youtube.com/watch?v=W8_O3joo4aU)  
 
 "DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"  
 Canadian Soceity for Digital Humanities, Congress 2016  
@@ -144,18 +155,21 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 # Projects
 
 Principal Investigator, Futures Past Archive  
-2015 — 2016  
+2015 — 2017  
 
-Developer, DH Box, CUNY Graduate Center  
+Maintainer, [Eloud screen reader](https://github.com/smythp/eloud)  
+2016 - 2017  
+
+Developer, [DH Box](http://dhbox.org/), CUNY Graduate Center  
 2014 — present  
 
-Platform Redesign, Writing Studies Tree, CUNY Graduate Center  
+Platform Redesign, [Writing Studies Tree](http://www.writingstudiestree.org/), CUNY Graduate Center  
 2014 — present  
 
-Contributing Historian, More Than a Mapp, CUNY Graduate Center  
+Contributing Historian, [More Than a Mapp](http://www.morethanamapp.org/), CUNY Graduate Center  
 2013 – 2014  
 
-Website Redesign, Association of Independent Information Professionals (AIIP)  
+Website Redesign, [Association of Independent Information Professionals](http://www.aiip.org/) (AIIP)  
 2013-2014  
 
 Dialogue and Scripting, AI Patient Platform, MATRIC Research  
