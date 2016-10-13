@@ -40,6 +40,9 @@ IGI Global, 2014
 
 # Service
 
+Convener, Queens College Python User Group (PUG)  
+2016-present  
+
 Convener, GC Python User Group (PUG)  
 2015-present  
 
