@@ -9,14 +9,14 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 
 # Awards, Grants, and Fellowships
 
-NYCDH Graduate Student Digital Project Award (Second place)  
+NYCDH Graduate Student Digital Project Award, "Futures Past Archive" (Second place)  
 2016  
 
 Provost's Digital Innovation Grant, "Futures Past Archive"  
 2015-2016 and 2016-2017  
 
 Digital Writing Fellowship, Qwriting, Queens College  
-2016 - present  
+2016-2017  
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
 2014-present  
@@ -40,7 +40,7 @@ IGI Global, 2014
 
 # Service
 
-Convener, Queens College Python User Group (PUG)  
+Founding convener, Queens College Python User Group (PUG)  
 2016-present  
 
 Convener, GC Python User Group (PUG)  
