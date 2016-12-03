@@ -77,6 +77,10 @@ METRO Conference
 
 # Presentations
 
+"GC Digital Initiatives and the Digital Research Institute: Enhancing Student Experience and Access"  
+CUNY IT Conference  
+2016 - New York, NY  
+
 "Blind Hackers: Accessibility by Other Means"  
 a11y Accessibility Camp  
 2016 - New York, NY  
