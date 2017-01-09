@@ -75,6 +75,16 @@ METRO Conference
 2015 — New York, NY
 
 ** Presentations
+"Code and the Codex: E-books as Applications"
+[[https://apps.mla.org/program_details?prog_id=75&year=2017][E-book Revolution panel]]
+MLA Convention
+2017 - Philadelphia, PA
+
+"DH Box"
+[[https://text.mla.hcommons.org/][Open Source Lit, Open Source Crit panel]]
+MLA Convention
+2017 - Philadelphia, PA
+
 "GC Digital Initiatives and the Digital Research Institute: Enhancing Student Experience and Access"
 CUNY IT Conference
 2016 - New York, NY
