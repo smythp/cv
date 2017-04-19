@@ -82,9 +82,8 @@ METRO Conference
 [[https://apps.mla.org/program_details?prog_id=75&year=2017][E-book Revolution panel]]
 MLA Convention
 2017 - Philadelphia, PA
-[[http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide][View Presentation]]
-[[https://github.com/smythp/ebooks-as-applications#ebooks-as-applications][View Notes]]
-
+[[http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide][View slides]]
+[[https://github.com/smythp/ebooks-as-applications#ebooks-as-applications][View notes]]
 
 "DH Box"
 [[https://text.mla.hcommons.org/][Open Source Lit, Open Source Crit panel]]
@@ -98,7 +97,9 @@ CUNY IT Conference
 "Blind Hackers: Accessibility by Other Means"
 a11y Accessibility Camp
 2016 - New York, NY
-[[https://www.youtube.com/watch?v=W8_O3joo4aU][View online]]
+[[https://www.youtube.com/watch?v=W8_O3joo4aU][Watch video]]
+[[http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html][View slides]]
+[[https://github.com/smythp/blind-hackers][View notes]]
 
 "DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"
 Canadian Soceity for Digital Humanities, Congress 2016
