@@ -12,7 +12,7 @@ Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu
 
 # Awards, Grants, and Fellowships
 
-NYCDH Graduate Student Digital Project Award, "Futures Past Archive" (Second place)  
+NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
 2016  
 
 Provost's Digital Innovation Grant, "Futures Past Archive"  

@@ -14,7 +14,7 @@ Certified Instructor, [[https://software-carpentry.org/about/][Software Carpentr
 Certificate, [[https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy][Interactive Technology and Pedagogy (ITP)]], 2016
 
 ** Awards, Grants, and Fellowships
-NYCDH Graduate Student Digital Project Award, "Futures Past Archive" (Second place)
+NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([[http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/][Second place]])
 2016
 
 Provost's Digital Innovation Grant, "Futures Past Archive"
