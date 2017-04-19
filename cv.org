@@ -82,7 +82,9 @@ METRO Conference
 [[https://apps.mla.org/program_details?prog_id=75&year=2017][E-book Revolution panel]]
 MLA Convention
 2017 - Philadelphia, PA
-[[https://github.com/smythp/ebooks-as-applications#ebooks-as-applications][View notes]]
+[[http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide][View Presentation]]
+[[https://github.com/smythp/ebooks-as-applications#ebooks-as-applications][View Notes]]
+
 
 "DH Box"
 [[https://text.mla.hcommons.org/][Open Source Lit, Open Source Crit panel]]
