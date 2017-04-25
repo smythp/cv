@@ -8,6 +8,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
         Highest Honors in English (Honors thesis)  
 
 Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/)  
+
 Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy), 2016  
 
 # Awards, Grants, and Fellowships
