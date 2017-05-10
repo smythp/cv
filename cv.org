@@ -1,5 +1,6 @@
 #+TITLE: Patrick Smyth CV
 #+OPTIONS: num:nil \n:t html-postamble:nil toc:nil
+#+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
 
 ** Education
 
