@@ -153,6 +153,7 @@ Intro Composition (Information Technology theme), Queens College, Spring 2014
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 ** Workshops Taught
+"Open and Accessible: A Critical Distinction" (Teach @ CUNY Day, Spring 2017)
 "Intro to Programming with Python" (GC Digital Research Institute, Fall 2016)
 "Intro to HTML and CSS" (ITP Program, Fall 2016)
 "Introduction to Web Frameworks with Flask" (GC Digital Research Institute, Summer 2016)  
