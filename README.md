@@ -184,8 +184,11 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 Project Lead, [NEH Impact Index](http://www.nehimpact.org/)  
 2017  
+[Site](http://www.nehimpact.org/)  
 [Blog post](https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/)  
 [FAQ](http://www.nehimpact.org/faq)  
+[Twitter](https://twitter.com/psmyth01/status/851505002900336644)  
+[PC Magazine Coverage](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
 
 Principal Investigator, Futures Past Archive  
 2015 — 2017  
