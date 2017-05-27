@@ -5,6 +5,6 @@ emacsclient --eval "(let ((file \"$(pwd)/cv.org\"))
       (org-latex-export-to-pdf)
       (org-md-export-to-markdown))))"
 cp cv.md README.md
-git add cv.md cv.org cv.pdf README.md 
+git add cv.md cv.org cv.tex cv.pdf README.md 
 git commit -m "Automatic push"
 git push
