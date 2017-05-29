@@ -1,4 +1,4 @@
-[Download PDF version](https://github.com/smythp/cv/raw/master/cv.pdf)  
+-   [Download PDF version](https://github.com/smythp/cv/raw/master/cv.pdf)     :nolatex:
 
 # Education
 

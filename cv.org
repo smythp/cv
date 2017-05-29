@@ -2,8 +2,7 @@
 #+OPTIONS: num:nil \n:t html-postamble:nil toc:nil
 #+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
 
-[[https://github.com/smythp/cv/raw/master/cv.pdf][Download PDF version]]
-
+***** [[https://github.com/smythp/cv/raw/master/cv.pdf][Download PDF version]] 					    :nolatex:
 ** Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)
