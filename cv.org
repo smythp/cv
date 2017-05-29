@@ -51,7 +51,7 @@ IGI Global, 2014
 [[http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care]["Trump Budget Slashes NEH Funding: Why You Should Care"]]
 PC Magazine, 2017
 
-Article prominently features the [[http://www.nehimpact.org/][NEH Impact Index]].
+Article features the [[http://www.nehimpact.org/][NEH Impact Index]].
 ** Service
 Founding convener, Queens College Python User Group (PUG)
 2016-present
