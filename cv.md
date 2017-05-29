@@ -45,7 +45,7 @@ IGI Global, 2014
 # Press
 
 ["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
-PC Magazine  
+PC Magazine, 2017  
 
 Article prominently features the [NEH Impact Index](http://www.nehimpact.org/).  
 
