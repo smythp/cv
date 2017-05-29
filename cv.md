@@ -1,3 +1,7 @@
+# \n     :nolatex:
+
+[Download PDF version](https://github.com/smythp/cv/raw/master/cv.pdf)  
+
 # Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)  
