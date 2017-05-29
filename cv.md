@@ -42,6 +42,13 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
 IGI Global, 2014  
 
+# Press
+
+["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
+PC Magazine  
+
+Article prominently features the [NEH Impact Index](http://www.nehimpact.org/).  
+
 # Service
 
 Founding convener, Queens College Python User Group (PUG)  
