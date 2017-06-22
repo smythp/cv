@@ -41,6 +41,10 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 
 # Publications
 
+"DH Box and Access in the Digital Humanities"  
+dh+lib, 2017  
+[Read article](http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/)  
+
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
 IGI Global, 2014  
 
