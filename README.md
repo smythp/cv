@@ -118,7 +118,7 @@ a11y Accessibility Camp
 [View notes](https://github.com/smythp/blind-hackers)  
 
 "DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"  
-Canadian Soceity for Digital Humanities, Congress 2016  
+Canadian Society for Digital Humanities, Congress 2016  
 2016 - Calgary, Alberta  
 (Travel funding from National Endowment for the Humanities)  
 
