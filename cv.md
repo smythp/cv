@@ -94,6 +94,16 @@ METRO Conference
 
 # Presentations
 
+"Rules of Thumb for Computer Security"  
+New York Amateur Computer Club  
+2017 - New York, NY  
+[Description](http://nyacc.org/)  
+[Presentation](http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide)  
+
+"Poster Session: DH Box"  
+Digital Humanities 2017  
+[Poster](./dh_box_poster.jpg)  
+
 "Code and the Codex: E-books as Applications"  
 [E-book Revolution panel](https://apps.mla.org/program_details?prog_id=75&year=2017)  
 MLA Convention  
