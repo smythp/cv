@@ -50,6 +50,9 @@ IGI Global, 2014
 
 # Press
 
+[Behind the Key — Patrick Smyth](https://www.pbk.org/web/PBK_Member/BTK.aspx)  
+Phi Beta Kappa website, 2017  
+
 ["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
 PC Magazine, 2017  
 
