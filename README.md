@@ -54,9 +54,7 @@ IGI Global, 2014
 Phi Beta Kappa website, 2017  
 
 ["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
-PC Magazine, 2017  
-
-Article features the [NEH Impact Index](http://www.nehimpact.org/).  
+PC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.org/).)  
 
 # Service
 
