@@ -171,10 +171,7 @@ Northeast Modern Language Associate Conference (NeMLA)
 ** Projects
 Project Lead, [[http://www.nehimpact.org/][NEH Impact Index]]
 2017
-[[http://www.nehimpact.org/][Site]]
-[[https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/][Blog post]]
-[[http://www.nehimpact.org/faq][FAQ]]
-[[https://twitter.com/psmyth01/status/851505002900336644][Twitter]]
+[[http://www.nehimpact.org/][Site]] | [[http://www.nehimpact.org/faq][FAQ]] | [[https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/][Blog post]] | [[https://twitter.com/psmyth01/status/851505002900336644][Twitter]]
 [[http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care][PC Magazine Coverage]]
 
 Principal Investigator, Futures Past Archive
