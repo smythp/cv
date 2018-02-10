@@ -9,7 +9,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
         magna cum laude, 2009  
         Highest Honors in English (Honors thesis)  
 
-Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/)  
+Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/), 2017  
 
 Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy), 2016  
 
@@ -58,23 +58,23 @@ PC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.
 
 # Service
 
-Founding convener, Queens College Python User Group (PUG)  
-2016-present  
-
-Convener, GC Python User Group (PUG)  
-2015-present  
-
 Student Representative, Interactive Technology and Pedagogy Student Liaison Committee  
+2016-2017 and 2017-2018  
+
+Student Representative, Graduate Center ADA Compliance Committee  
 2016-2017  
 
-Member, English Student Association Website Committee  
-2015-present  
-
-Chair, GC Digital Research Institute Curriculum Committee  
+Convener, GC Python User Group (PUG)  
 2015-2017  
 
-Member, GC Digital Research Bootcamp Steering Committee  
+Member, English Student Association Website Committee  
 2015-2016  
+
+Chair, GC Digital Research Institute Curriculum Committee  
+2015-present  
+
+Member, GC Digital Research Bootcamp Steering Committee  
+2015-2017  
 
 Convener, Utopian Studies Seminar, CUNY Graduate Center  
 2012-2015  
