@@ -57,7 +57,6 @@ Phi Beta Kappa website, 2017
 [[http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care]["Trump Budget Slashes NEH Funding: Why You Should Care"]]
 PC Magazine, 2017 (Article features the [[http://www.nehimpact.org/][NEH Impact Index]].)
 
-
 ** Service
 Founding convener, Queens College Python User Group (PUG)
 2016-present
@@ -170,6 +169,36 @@ CUNY IT Conference
 Northeast Modern Language Associate Conference (NeMLA)
 2013 — Boston, MA
 
+** Projects
+Project Lead, [[http://www.nehimpact.org/][NEH Impact Index]]
+2017
+[[http://www.nehimpact.org/][Site]]
+[[https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/][Blog post]]
+[[http://www.nehimpact.org/faq][FAQ]]
+[[https://twitter.com/psmyth01/status/851505002900336644][Twitter]]
+[[http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care][PC Magazine Coverage]]
+
+Principal Investigator, Futures Past Archive
+2015 — 2017
+
+Maintainer, [[https://github.com/smythp/eloud][Eloud screen reader]]
+2016 - 2017
+
+Developer, [[http://dhbox.org/][DH Box]], CUNY Graduate Center
+2014 — present
+
+Platform Redesign, [[http://www.writingstudiestree.org/][Writing Studies Tree]], CUNY Graduate Center
+2014 — present
+
+Contributing Historian, [[http://www.morethanamapp.org/][More Than a Mapp]], CUNY Graduate Center
+2013 – 2014
+
+Website Redesign, [[http://www.aiip.org/][Association of Independent Information Professionals]] (AIIP) 
+2013-2014
+
+Dialogue and Scripting, AI Patient Platform, MATRIC Research
+2012 – 2013
+
 ** Classes Taught
 
 Literature and Place: Imagining Utopia, Queens College, Spring 2014
@@ -201,36 +230,6 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 “Intro to Programming with Python,” CUNY Graduate Center Digital Fellows, Fall 2014
 2x “WordPress 2: Advanced Techniques,” CUNY Graduate Center ITP Program, Fall 2014
 “WordPress: Theming and Design,” CUNY Graduate Center ITP Program, Spring 2013
-
-** Projects
-Project Lead, [[http://www.nehimpact.org/][NEH Impact Index]]
-2017
-[[http://www.nehimpact.org/][Site]]
-[[https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/][Blog post]]
-[[http://www.nehimpact.org/faq][FAQ]]
-[[https://twitter.com/psmyth01/status/851505002900336644][Twitter]]
-[[http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care][PC Magazine Coverage]]
-
-Principal Investigator, Futures Past Archive
-2015 — 2017
-
-Maintainer, [[https://github.com/smythp/eloud][Eloud screen reader]]
-2016 - 2017
-
-Developer, [[http://dhbox.org/][DH Box]], CUNY Graduate Center
-2014 — present
-
-Platform Redesign, [[http://www.writingstudiestree.org/][Writing Studies Tree]], CUNY Graduate Center
-2014 — present
-
-Contributing Historian, [[http://www.morethanamapp.org/][More Than a Mapp]], CUNY Graduate Center
-2013 – 2014
-
-Website Redesign, [[http://www.aiip.org/][Association of Independent Information Professionals]] (AIIP) 
-2013-2014
-
-Dialogue and Scripting, AI Patient Platform, MATRIC Research
-2012 – 2013
 
 ** Technical Skills
 
