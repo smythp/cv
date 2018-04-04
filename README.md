@@ -41,6 +41,10 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 
 # Publications
 
+"Creating Web APIs with Python and Flask"  
+Programming Historian, 2018  
+[Read article](https://programminghistorian.org/lessons/creating-apis-with-python-and-flask)  
+
 "DH Box and Access in the Digital Humanities"  
 dh+lib, 2017  
 [Read article](http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/)  
@@ -207,6 +211,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught
 
+"Python 201" (GC Digital Fellows)  
 "Open and Accessible: A Critical Distinction" (Teach @ CUNY Day, Spring 2017)  
 "Intro to Programming with Python" (GC Digital Research Institute, Fall 2016)  
 "Intro to HTML and CSS" (ITP Program, Fall 2016)  
