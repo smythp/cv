@@ -20,7 +20,7 @@ Dissertation Year Prize, Graduate Center English Department
 2018-2019  
 
 Public Humanities Fellowship  
-Humanities New York  
+[Humanities New York](https://humanitiesny.org/)  
 Project: "Apps for Activists"  
 2018-2019  
 
