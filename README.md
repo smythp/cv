@@ -15,6 +15,15 @@ Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu
 
 # Awards, Grants, and Fellowships
 
+Milton F. Steinhardt Memorial Fellowship Award For Best Prospectus  
+Dissertation Year Prize, Graduate Center English Department  
+2018-2019  
+
+Public Humanities Fellowship  
+Humanities New York  
+Project: "Apps for Activists"  
+2018-2019  
+
 NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
 2016  
 
