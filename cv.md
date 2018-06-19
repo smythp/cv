@@ -15,7 +15,7 @@ Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu
 
 # Awards, Grants, and Fellowships
 
-Milton F. Steinhardt Memorial Fellowship Award For Best Prospectus  
+Milton F. Steinhardt Memorial Fellowship Award for Best Prospectus  
 Dissertation Year Prize, Graduate Center English Department  
 2018-2019  
 
