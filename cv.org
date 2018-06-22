@@ -28,7 +28,7 @@ Project: "Apps for Activists"
 2018-2019
 
 Lead Curriculum Designer, Digital Humanities Research Institute
-[[https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities][Institutes for Advanced Topics in the Digital Humanities]], National Endowment for the Humanities (NEH)
+[[https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities][Institutes for Advanced Topics in the Digital Humanities]], NEH grant
 2017-2018
 [[http://dhinstitutes.org][View Website]]
 [[https://github.com/DHRI-Curriculum][View Curriculum]]
