@@ -29,6 +29,7 @@ Lead Curriculum Designer, Digital Humanities Research Institute
 2017-2018  
 [View Website](http://dhinstitutes.org)  
 [View Curriculum](https://github.com/DHRI-Curriculum)  
+[#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)  
 
 NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
 2016  
