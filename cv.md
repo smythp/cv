@@ -24,6 +24,12 @@ Public Humanities Fellowship
 Project: "Apps for Activists"  
 2018-2019  
 
+Lead Curriculum Designer, Digital Humanities Research Institute  
+[Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities), National Endowment for the Humanities (NEH)  
+2017-2018  
+[View Website](http://dhinstitutes.org)  
+[View Curriculum](https://github.com/DHRI-Curriculum)  
+
 NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
 2016  
 
@@ -225,8 +231,10 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught
 
-"Python 201" (GC Digital Fellows)  
-"Open and Accessible: A Critical Distinction" (Teach @ CUNY Day, Spring 2017)  
+"An Introduction to Static Sites with Jekyll" (Digital Humanities Research Institute, summer 2018)  
+"Twitterbots with the Twitter API" (Digital Humanities Research Institute, summer 2018)  
+"Python 201" (GC Digital Fellows, spring 2018)  
+"Open and Accessible: A Critical Distinction" (Teach @ CUNY Day, Summer 2017)  
 "Intro to Programming with Python" (GC Digital Research Institute, Fall 2016)  
 "Intro to HTML and CSS" (ITP Program, Fall 2016)  
 "Introduction to Web Frameworks with Flask" (GC Digital Research Institute, Summer 2016)  

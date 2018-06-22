@@ -30,7 +30,7 @@ Project: "Apps for Activists"
 Lead Curriculum Designer, Digital Humanities Research Institute
 [[https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities][Institutes for Advanced Topics in the Digital Humanities]], National Endowment for the Humanities (NEH)
 2017-2018
-[[dhinstitutes.org][View Website]]
+[[http://dhinstitutes.org][View Website]]
 [[https://github.com/DHRI-Curriculum][View Curriculum]]
 
 NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([[http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/][Second place]])
