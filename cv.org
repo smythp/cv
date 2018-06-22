@@ -104,6 +104,7 @@ Convener, Utopian Studies Seminar, CUNY Graduate Center
 Week-long course, Digital Humanities Summer Institute
 2018, 2019 - Victoria, British Columbia
 [[https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python][View Materials]]
+[[https://twitter.com/search?q=%2523dhsiapi&src=typd][#dhsiapi on Twitter]]
 
 "Lightning Talk: DH Box"
 NEH Project Director's Meeting
