@@ -93,6 +93,11 @@ Member, GC Digital Research Bootcamp Steering Committee
 Convener, Utopian Studies Seminar, CUNY Graduate Center
 2012-2015 
 ** Invited Talks
+"Web APIs with Python"
+Week-long course, Digital Humanities Summer Institute
+2018, 2019 - Victoria, British Columbia
+[[https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python][View Materials]]
+
 "Lightning Talk: DH Box"
 NEH Project Director's Meeting
 2015 - Washington, DC

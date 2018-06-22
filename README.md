@@ -94,6 +94,11 @@ Convener, Utopian Studies Seminar, CUNY Graduate Center
 
 # Invited Talks
 
+"Web APIs with Python"  
+Week-long course, Digital Humanities Summer Institute  
+2018, 2019 - Victoria, British Columbia  
+[View Materials](https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python)  
+
 "Lightning Talk: DH Box"  
 NEH Project Director's Meeting  
 2015 - Washington, DC  
