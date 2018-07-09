@@ -1,0 +1,269 @@
+.widget_area .article-banner h2 {
+    margin-bottom: 7px;
+    font-weight: 300 !important;
+    font-size: 50px !important;
+    color: #fff;
+    line-height: 1.2 !important;
+    margin-top: 0px !important;
+    font-family: "Proxima-Nova", "Arial", "Helvetica Neue", "Helvetica", sans-serif !important;
+}
+
+.widget_area {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+li .title {
+    background: none;
+}
+
+h1.h1-blue {
+  color:#1D5CA3 !important;
+}
+
+h1.h1-gold {
+  color:#D49829 !important;
+}
+
+h1.h1-red {
+  color:#C5093B !important;
+}
+
+h1.h1-black {
+  color:#000 !important;
+}
+
+h1.h1-grey {
+  color:#EEF4F5 !important;
+}
+
+/* Added by Tim on 1 Nov, 2017 */
+/* For eliminating undesirable effect form Bootstrap */
+#header .header-holder .container .row:before, 
+#header .header-holder .container .row:after {   
+    content: none !important;
+} /* Added by Tim on 1 Nov, 2017 */
+
+.widget.btn {
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+    display: inline-flex;
+    margin-top: 6px;
+    padding: 8px 20px 6px 20px;
+    color: #174e8e;
+}
+
+.widget.btn:hover {
+    color: #fff;
+ /* Added by Jim R. in order to prevent word wrapping going outside of margins in the spread the word widget*/
+  
+}
+.widget_social {
+    word-wrap: break-word ;
+}
+
+.section-block.news ul .img-block {  
+   /* Added by Tim in order to fix the Home page news image (should be circle not square) in Google Chrome 
+      in which the Relative positioning does not work in large screen size
+    */
+   position: sticky;
+}
+
+
+.cms-bootstrap [class^="icon-"], .cms-bootstrap [class*=" icon-"] {
+    /* Added by Tim on 1 Feb in order to fix the Kentico icon display */
+    font-family: 'Core-icons' !important;
+}
+
+
+/*Added by Rajat on 1 Feb 2018*/
+
+/*Over write css*/
+
+.intro {margin:25px 0 50px; padding: 0 10px; font-family: "Georgia", "Times New Roman", "Times", "Baskerville", serif; font-size: 24px; line-height: 1.35; text-align: left; color: #174e8e; }
+.box {height:168px !important}
+
+/*New css*/
+.widget_social {word-wrap: break-word !important}
+/* .container {max-width: 1170px !important;} */
+.featured-img img {opacity: 1; display: inline-block; max-width: 100%; } 
+.featured-img .container {max-width: 1170px; text-align: center; }
+.two_column #sidebar {width: 100%;}
+.two_column #content {width: 100%;}
+#bg-stretch1517374545695148 {background-image: url(../images/footer.jpg); }
+.btn {
+    border: 1px solid #da9a29 !important;
+    border-radius: 20px !important;
+    font-weight: bold !important;
+}
+
+/*General*/
+.banner-img img {width: 100%; }
+.main-container {padding: 71px 0px 19px; }
+/*Background*/
+.bg-black{background: #000;}
+.top-nav {max-height: 31px;}
+
+/*Removed Anchor tag in menu*/
+.opener 
+{
+/*display: none !important; */
+}
+
+#content ul{
+  margin:0 0 20px !important;
+  }
+
+/* CSS Added by Rajat (22-03-18)*/
+.text-box{
+    word-wrap: break-word;
+}
+.pbk_widget
+{
+word-wrap: break-word !important
+}
+
+#pbkLinkList .quick_links li .icon {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 48px;
+  height: 48px;
+  margin-top: -24px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #eaeef1;
+}
+
+#pbkLinkList .quick_links + .decor-holder {
+  margin: -8px 0 -24px !important;
+}
+
+#pbkLinkList .quick_links li a span {
+  display: inline-block !important;
+}
+
+
+
+#pbkLinkList .quick_links li a:hover span {
+  text-decoration: underline !important;
+}
+
+
+#pbkLinkList .quick_links li a:hover {
+  text-decoration: underline !important;
+}
+
+#pbkLinkList .quick_links li a {
+  font-weight: bold !important;
+  text-decoration: none !important;
+}
+
+#pbkLinkList .quick_links li:last-child {
+  border: 0 !important;
+}
+
+#pbkLinkList .quick_links li:before {
+  display: none !important;
+}
+
+#pbkLinkList h2 + .six_dots {
+  margin-top: -3px !important;
+}
+
+#pbkLinkList h2 
+{
+    margin-top: 46px !important;
+    font-family: "Georgia", "Times New Roman", "Times", "Baskerville", serif !important;
+    font-size: 24px !important;
+    font-weight: normal !important;
+    line-height: 1.33 !important;
+}
+
+#pbkLinkList ul {
+  list-style: none;
+  margin: 0 0 46px;
+  padding: 0;
+}
+
+#pbkLinkList li
+{
+  position: relative;
+}
+
+#pbkLinkList .quick_links {
+  margin: 0;
+}
+
+#pbkLinkList .quick_links li {
+  margin: 0;
+  padding: 24px 0 24px 84px;
+  border-bottom: 1px solid #da9a29;
+}
+/*Added by Ayushi for Gold separator*/
+#pbkLinkList .quick_links li.noseparator {
+  border-bottom: none !important;
+}
+/*Added by Ayushi for white divet*/
+#body.two_column.clearfix{padding:0}
+ .decor-block{ bottom:11px;}
+ .footer-top.decor-block {
+  height: 22px !important;top:-22px;
+}
+ .decor-block.footer-top .decor-1:after {
+  height: 21px !important;
+  width: 22px!important;
+  background-color: #fff !important;
+  border: 0 !important;
+  
+}
+.user-box .user-details{overflow: hidden;}
+.VisitingScholars .col-md-3:nth-child(4n+1) {
+    clear: both;
+}
+/* Add on 20-04-2018 for banner over content */
+.banner-img{position:relative;}
+.banner-over-section{position:absolute;top:128px;left:70px; max-width:400px}
+.banner-over-img{}
+.banner-over-content{font-size: 53px;color: #fff;margin-top: 42px;line-height: 72px;}
+.card-box{display: flex; flex-wrap: wrap; }
+.card-box-inner{ height: 100%; max-height:380px;}
+.card-box-inner img{ height:100%;}
+
+
+@media screen and (min-width:1281px) and (max-width:1675px) {
+  .banner-over-section{top:8%;left:4%; max-width:100%;width:29%;}
+  .banner-over-img {max-width:100%;}
+  .banner-over-content {font-size:49px;color: #fff;margin-top:9%;line-height: normal;}
+}
+
+@media screen and (min-width:991px) and (max-width:1280px) {
+  .banner-over-section{top:8%;left:15px; max-width:70%;}
+  .banner-over-img {max-width:38%;}
+  .banner-over-content {font-size:52px;color: #fff;margin-top: 3%;line-height: normal;}
+}
+
+@media screen and (max-width:990px) {
+  .card-box-inner img{width:100%;    /* height: auto; */}
+  .lecture-info {margin-bottom:20px;/*max-height: 100%;*/height: 290px;}
+}
+@media screen and (min-width:769px) and (max-width:990px) {
+  .banner-over-section{top:15px;left:15px; max-width:100%;}
+  .banner-over-img {max-width:38%;}
+  .banner-over-content {font-size:46px;color: #fff;margin-top: 3%;line-height: normal;}
+}
+@media screen and (min-width:501px) and (max-width:768px) {
+  .banner-over-section{top:15px;left:15px; max-width:100%;}
+  .banner-over-img {max-width:38%;}
+  .banner-over-content {font-size: 30px;color: #fff;margin-top: 3%;line-height: normal; display:none;}
+  
+}
+@media screen and (min-width:320px) and (max-width:500px) {
+ .banner-over-section{top:15px;left:15px; max-width:100%;}
+  .banner-over-img {max-width:38%;}
+  .banner-over-content {font-size: 19px;color: #fff;margin-top: 3%;line-height: normal; display:none;}
+}
+
+
+#SearchBar label, #SearchBar input[type=submit] {
+  display:none;
+}
