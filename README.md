@@ -279,18 +279,4 @@ Databases: mySQL, SQLite
 Security: PGP, GPG  
 Markup: HTML, CSS, markdown  
 Containerization: Docker, VirtualBox  
-Other: UNIX, Bash scripting  
-
-# Professional Experience
-
-Web Analyst, Red House Consulting, Washington, PA  
-November 2011 – present  
-
-ESL Teacher, Language Studies International  
-2012  
-
-SAT Tutor, Kaplan  
-2011 — 2012  
-
-English Instructor, CCB School  
-2011
+Other: UNIX, Bash scripting
