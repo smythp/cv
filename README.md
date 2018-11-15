@@ -61,6 +61,9 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 
 # Publications
 
+"Double Take: A Memoir" (review)  
+*Disability Experiences*, forthcoming 2019  
+
 "Creating Web APIs with Python and Flask"  
 Programming Historian, 2018  
 [Read article](https://programminghistorian.org/lessons/creating-apis-with-python-and-flask)  
