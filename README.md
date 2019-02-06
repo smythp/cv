@@ -234,6 +234,7 @@ Dialogue and Scripting, AI Patient Platform, MATRIC Research
 
 # Classes Taught
 
+Software Design Lab, MA Program in Digital Humanities, The Graduate Center, Spring 2019  
 Literature and Place: Imagining Utopia, Queens College, Spring 2014  
 Intro Composition (Information Technology theme), Queens College, Spring 2014  
 Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013  
