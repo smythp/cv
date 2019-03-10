@@ -136,7 +136,7 @@ New York Amateur Computer Club
 
 "Poster Session: DH Box"  
 Digital Humanities 2017  
-[Poster](./resources/dh_box_poster.jpg)  
+[Poster](https://smythp.com/images/dh_box_poster.pdf)  
 
 "Code and the Codex: E-books as Applications"  
 [E-book Revolution panel](https://apps.mla.org/program_details?prog_id=75&year=2017)  
