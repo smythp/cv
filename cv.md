@@ -3,7 +3,7 @@
 # Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)  
-        In progress  
+        In progress, expected spring 2020  
 
 Double B.A. in English and German Literature, Kenyon College, Ohio  
         magna cum laude, 2009  
@@ -61,8 +61,7 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 
 # Publications
 
-"Double Take: A Memoir" (review)  
-*Disability Experiences*, forthcoming 2019  
+"Double Take: A Memoir." Couser, G. Thomas, and Susannah B. Mintz, editors. Disability Experiences: Memoirs, Autobiographies, and Other Personal Narratives. 2019. (review)  
 
 "Creating Web APIs with Python and Flask"  
 Programming Historian, 2018  
@@ -241,6 +240,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught
 
+"Pandas: The Bare Basics" (Columbia Python User Group, fall 2019)  
 "An Introduction to Static Sites with Jekyll" (Digital Humanities Research Institute, summer 2018)  
 "Twitterbots with the Twitter API" (Digital Humanities Research Institute, summer 2018)  
 "Python 201" (GC Digital Fellows, spring 2018)  
