@@ -109,7 +109,7 @@ Member, English Student Association Website Committee
 2015-2016  
 
 Chair, GC Digital Research Institute Curriculum Committee  
-2015-present  
+2015-2017  
 
 Member, GC Digital Research Bootcamp Steering Committee  
 2015-2017  
@@ -229,10 +229,10 @@ Maintainer, [Eloud screen reader](https://github.com/smythp/eloud)
 2016 - 2017  
 
 Developer, [DH Box](http://dhbox.org/), CUNY Graduate Center  
-2014 — present  
+2014 — 2018  
 
 Platform Redesign, [Writing Studies Tree](http://www.writingstudiestree.org/), CUNY Graduate Center  
-2014 — present  
+2014 — 2015  
 
 Contributing Historian, [More Than a Mapp](http://www.morethanamapp.org/), CUNY Graduate Center  
 2013 – 2014  
@@ -252,6 +252,7 @@ Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
 
 # Workshops Taught
 
+Getting Started with Python (Foundations for Research Computing, Columbia University, spring 2021)  
 "Pandas: The Bare Basics" (Columbia Python User Group, fall 2019)  
 "An Introduction to Static Sites with Jekyll" (Digital Humanities Research Institute, summer 2018)  
 "Twitterbots with the Twitter API" (Digital Humanities Research Institute, summer 2018)  
@@ -292,18 +293,4 @@ Databases: mySQL, SQLite
 Security: PGP, GPG  
 Markup: HTML, CSS, markdown  
 Containerization: Docker, VirtualBox  
-Other: UNIX, Bash scripting  
-
-# Professional Experience
-
-Web Analyst, Red House Consulting, Washington, PA  
-November 2011 – present  
-
-ESL Teacher, Language Studies International  
-2012  
-
-SAT Tutor, Kaplan  
-2011 — 2012  
-
-English Instructor, CCB School  
-2011
+Other: UNIX, Bash scripting
