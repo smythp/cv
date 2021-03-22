@@ -3,7 +3,7 @@
 # Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)  
-        In progress, expected spring 2020  
+        Defense scheduled for April 15th, 2021  
 
 Double B.A. in English and German Literature, Kenyon College, Ohio  
         magna cum laude, 2009  
@@ -13,7 +13,32 @@ Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/
 
 Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy), 2016  
 
-# Awards, Grants, and Fellowships
+# Positions and Fellowships
+
+Program Coordinator, [Foundations for Research Computing](https://rcfoundations.research.columbia.edu/)  
+Columbia University  
+2019-present  
+
+Advisor, MA Program in Digital Humanities  
+The Graduate Center, CUNY  
+2017-2018  
+
+Lead Curriculum Designer, Digital Humanities Research Institute  
+[Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities), NEH grant  
+2017-2018  
+[View Website](http://dhinstitutes.org)  
+[View Curriculum](https://github.com/DHRI-Curriculum)  
+[#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)  
+
+Digital Initiatives Fellowship, GC Digital Scholarship Lab  
+CUNY Graduate Center  
+2014-2017  
+
+Developer and Documentation Specialist, DH Box NEH Startup Grant  
+The Graduate Center, CUNY  
+2014-2018  
+
+# Awards and Grants
 
 Donald and Mary Ellen Passantino Students with Disabilities Award  
 CUNY University Student Senate  
@@ -28,13 +53,6 @@ Public Humanities Fellowship
 Project: "Apps for Activists"  
 2018-2019  
 
-Lead Curriculum Designer, Digital Humanities Research Institute  
-[Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities), NEH grant  
-2017-2018  
-[View Website](http://dhinstitutes.org)  
-[View Curriculum](https://github.com/DHRI-Curriculum)  
-[#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)  
-
 NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
 2016  
 
@@ -43,12 +61,6 @@ Provost's Digital Innovation Grant, "Futures Past Archive"
 
 Digital Writing Fellowship, Qwriting, Queens College  
 2016-2017  
-
-Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center  
-2014-present  
-
-Developer and Documentation Specialist, DH Box NEH Startup Grant  
-2014-present  
 
 ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center  
 2014  

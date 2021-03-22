@@ -7,7 +7,7 @@
 :END:
 ** Education
 Ph.D. in English, Graduate Center of the City University of New York (CUNY)
-	In progress, expected spring 2020
+	Defense scheduled for April 15th, 2021
 	
 Double B.A. in English and German Literature, Kenyon College, Ohio
 	magna cum laude, 2009
@@ -17,7 +17,32 @@ Certified Instructor, [[https://software-carpentry.org/about/][Software Carpentr
 
 Certificate, [[https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy][Interactive Technology and Pedagogy (ITP)]], 2016
 
-** Awards, Grants, and Fellowships
+** Positions and Fellowships
+
+Program Coordinator, [[https://rcfoundations.research.columbia.edu/][Foundations for Research Computing]]
+Columbia University
+2019-present
+
+Advisor, MA Program in Digital Humanities
+The Graduate Center, CUNY
+2017-2018
+
+Lead Curriculum Designer, Digital Humanities Research Institute
+[[https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities][Institutes for Advanced Topics in the Digital Humanities]], NEH grant
+2017-2018
+[[http://dhinstitutes.org][View Website]]
+[[https://github.com/DHRI-Curriculum][View Curriculum]]
+[[https://twitter.com/search?q=%2523dhri&src=tyah][#DHRI on Twitter]]
+
+Digital Initiatives Fellowship, GC Digital Scholarship Lab
+CUNY Graduate Center
+2014-2017
+
+Developer and Documentation Specialist, DH Box NEH Startup Grant
+The Graduate Center, CUNY
+2014-2018
+
+** Awards and Grants
 Donald and Mary Ellen Passantino Students with Disabilities Award
 CUNY University Student Senate
 2018
@@ -31,13 +56,6 @@ Public Humanities Fellowship
 Project: "Apps for Activists"
 2018-2019
 
-Lead Curriculum Designer, Digital Humanities Research Institute
-[[https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities][Institutes for Advanced Topics in the Digital Humanities]], NEH grant
-2017-2018
-[[http://dhinstitutes.org][View Website]]
-[[https://github.com/DHRI-Curriculum][View Curriculum]]
-[[https://twitter.com/search?q=%2523dhri&src=tyah][#DHRI on Twitter]]
-
 NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([[http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/][Second place]])
 2016
 
@@ -46,12 +64,6 @@ Provost's Digital Innovation Grant, "Futures Past Archive"
 
 Digital Writing Fellowship, Qwriting, Queens College
 2016-2017
-
-Digital Initiatives Fellowship, GC Digital Scholarship Lab, CUNY Graduate Center
-2014-present
-
-Developer and Documentation Specialist, DH Box NEH Startup Grant
-2014-present
 
 ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center
 2014
@@ -69,13 +81,13 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 Programming Historian, 2018
 [[https://programminghistorian.org/lessons/creating-apis-with-python-and-flask][Read article]]
 
-
 "DH Box and Access in the Digital Humanities"
 dh+lib, 2017
 [[http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/][Read article]]
 
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture
 IGI Global, 2014
+
 
 ** Press
 [[https://www.pbk.org/Behind-the-Key/Patrick-Smyth][Behind the Key — Patrick Smyth]]
