@@ -19,7 +19,7 @@ Program Coordinator, [Foundations for Research Computing](https://rcfoundations.
 Columbia University  
 2019-present  
 
-Advisor, MA Program in Digital Humanities  
+Advisor, [MA Program in Digital Humanities](https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)  
 The Graduate Center, CUNY  
 2017-2018  
 
@@ -34,11 +34,15 @@ Digital Initiatives Fellowship, GC Digital Scholarship Lab
 CUNY Graduate Center  
 2014-2017  
 
-Developer and Documentation Specialist, DH Box NEH Startup Grant  
+Developer and Documentation Specialist, [DH Box](https://dhbox.org/) NEH Startup Grant  
 The Graduate Center, CUNY  
 2014-2018  
 
 # Awards and Grants
+
+Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year  
+Department of English, The Graduate Center, CUNY  
+2021  
 
 Donald and Mary Ellen Passantino Students with Disabilities Award  
 CUNY University Student Senate  
