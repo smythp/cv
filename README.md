@@ -2,8 +2,8 @@
 
 # Education
 
-Ph.D. in English, Graduate Center of the City University of New York (CUNY)  
-        Defense scheduled for April 15th, 2021  
+Ph.D. in English, Graduate Center of the City University of New York (CUNY), 2021  
+    Faculty Award for Most Distinguished Dissertation of 2021  
 
 Double B.A. in English and German Literature, Kenyon College, Ohio  
         magna cum laude, 2009  
