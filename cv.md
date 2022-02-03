@@ -92,6 +92,9 @@ IGI Global, 2014
 
 # Press
 
+[A Graduate Center Fellowship That Builds Digital Skills Also Yields Jobs for Alumni](https://m.gc.cuny.edu/News/Detail?id=60526)  
+CUNY News, 2021  
+
 [Behind the Key — Patrick Smyth](https://www.pbk.org/Behind-the-Key/Patrick-Smyth)  
 Phi Beta Kappa website, 2017  
 
