@@ -146,6 +146,16 @@ METRO Conference
 
 # Presentations
 
+STEM access: From author to reader  
+TeX Hour Mini-Conference  
+2023, Online  
+[Event page](https://texhour.github.io/2023/01/19/stem-access-author-reader/)  
+
+"The Accessible Laboratory"  
+STEM Pedagogy Institute  
+2022, New York, NY  
+[View Curriculum](https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory)  
+
 "Rules of Thumb for Computer Security"  
 New York Amateur Computer Club  
 2017 - New York, NY  
@@ -291,13 +301,10 @@ Getting Started with Python (Foundations for Research Computing, Columbia Univer
 
 # Technical Skills
 
-Languages: Python, PHP, Lisp (Common, Emacs)  
-Python Libraries: Scrapy, BeautifulSoup, NLTK, SQLAlchemy, Jinja2  
+Frontend Frameworks: Bulma, Bootstrap, React  
+Analytics: Jupyter, NLTK, NumPy/SciPy, Spacy, Pandas, scikit-learn  
+Web Scraping: Scrapy, BeautifulSoup  
 Web Frameworks: Flask, Django  
-Front-end Frameworks: Bootstrap  
-Content Management: Jekyll, WordPress, Drupal  
-Databases: mySQL, SQLite  
-Security: PGP, GPG  
-Markup: HTML, CSS, markdown  
-Containerization: Docker, VirtualBox  
-Other: UNIX, Bash scripting
+CMS / Static Site Generators: Jekyll, Hugo, WordPress, Drupal  
+Databases: mySQL, SQLite, PostgreSQL  
+Ops: Docker, Unix, Git
