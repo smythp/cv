@@ -146,6 +146,13 @@ METRO Conference
 2015 — New York, NY
 
 ** Presentations
+
+STEM access: From author to reader
+TeX Hour Mini-Conference
+2023, Online
+[[https://texhour.github.io/2023/01/19/stem-access-author-reader/][Event page]]
+
+
 "The Accessible Laboratory"  
 STEM Pedagogy Institute  
 2022, New York, NY  
