@@ -146,6 +146,13 @@ METRO Conference
 
 # Presentations
 
+Accessible Notebooks Hackathon  
+Space Telescope Science Institute  
+2023, Online  
+[Event Page](https://iota-school.github.io/accessibility_hackathon/)  
+[Activity page](https://iota-school.github.io/accessibility_hackathon/hack)  
+[Event Recording](https://www.youtube.com/watch?v=zskT7leTxXM%0A)  
+
 STEM access: From author to reader  
 TeX Hour Mini-Conference  
 2023, Online  
