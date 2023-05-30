@@ -25,8 +25,9 @@ Certificate, [[https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-
 Chief Learner / Principal Consultant
 [[https://iotaschool.com/%0A][Iota School]]
 January 2022 — present
+:NOTINPDF:
 [[#client-list][Client List]]
-
+:END:
 
 Postdoctoral Fellow in Humanities Entrepreneurship
 [[https://publicslab.gc.cuny.edu/%0A][Publics Lab]]

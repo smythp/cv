@@ -25,8 +25,11 @@ Positions
 
 Chief Learner / Principal Consultant\
 [Iota School](https://iotaschool.com/%0A)\
-January 2022 --- present\
+January 2022 --- present
+
+::: {.NOTINPDF .drawer}
 [Client List](#client-list)
+:::
 
 Postdoctoral Fellow in Humanities Entrepreneurship\
 [Publics Lab](https://publicslab.gc.cuny.edu/%0A)\
