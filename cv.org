@@ -10,7 +10,7 @@ Ph.D. in English, Graduate Center of the City University of New York (CUNY), 202
     Faculty Award for Most Distinguished Dissertation of 2021
 
 
-	
+
 Double B.A. in English and German Literature, Kenyon College, Ohio
 	magna cum laude, 2009
 	Highest Honors in English (Honors thesis)
@@ -125,8 +125,14 @@ Member, GC Digital Research Bootcamp Steering Committee
 2015-2017
 
 Convener, Utopian Studies Seminar, CUNY Graduate Center
-2012-2015 
+2012-2015
 ** Invited Talks
+"Haccessibility for All"
+arXiv Accessibility Forum 2023
+April 17, 2023
+[[https://www.youtube.com/watch?v=1v3jFCWQfI8][View Recording]]
+
+
 "Web APIs with Python"
 Week-long course, Digital Humanities Summer Institute
 2018, 2019 - Victoria, British Columbia
@@ -141,11 +147,23 @@ NEH Project Director's Meeting
 Media Res: Lightning Talks by NYC Graduate Students on DH Projects
 2015 — New York, NY
 
-“DH Box: A Push-Button Digital Humanities Laboratory” 
+“DH Box: A Push-Button Digital Humanities Laboratory”
 METRO Conference
 2015 — New York, NY
 
 ** Presentations
+
+
+Notebooks for All: Accessibility & Jupyter Notebooks
+JupyterCon 2023
+Paris, France
+[[https://cfp.jupytercon.com/2023/talk/J97H8N/][Description]]
+
+Day of Accessibility
+Space Telescope Science Institute
+Baltimore, MD
+[[https://www.youtube.com/playlist?list=PLCPZgcYzVpj_WHHCTUpec8THYEMzXZnR1][Recordings]]
+[[https://iota-school.github.io/day_accessibility/][Event Page]]
 
 Accessible Notebooks Hackathon
 Space Telescope Science Institute
@@ -159,9 +177,9 @@ TeX Hour Mini-Conference
 2023, Online
 [[https://texhour.github.io/2023/01/19/stem-access-author-reader/][Event page]]
 
-"The Accessible Laboratory"  
-STEM Pedagogy Institute  
-2022, New York, NY  
+"The Accessible Laboratory"
+STEM Pedagogy Institute
+2022, New York, NY
 [[https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory][View Curriculum]]
 
 "Rules of Thumb for Computer Security"
@@ -213,12 +231,12 @@ CUNY DHI: Building a Digital Humanities Community
 
 "Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media"
 Digital Materials conference
-2015 — Galway, Ireland 
+2015 — Galway, Ireland
 (Travel funding from GC Digital Initiatives)
 
 “To Look upon Verdure”: Transplantation and Cultivation in Mansfield Park"
 Association for the Study of Literature and the Environment Conference
-2015 — Moscow, ID 
+2015 — Moscow, ID
 
 "Divining Disenchantment: Pneuma and Early Modern Science"
 Warren Susman Graduate Conference
@@ -236,7 +254,7 @@ CUNY IT Conference
 CUNY IT Conference
 2014 — New York, New York
 
-“Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century” 
+“Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century”
 Northeast Modern Language Associate Conference (NeMLA)
 2013 — Boston, MA
 
@@ -261,7 +279,7 @@ Platform Redesign, [[http://www.writingstudiestree.org/][Writing Studies Tree]],
 Contributing Historian, [[http://www.morethanamapp.org/][More Than a Mapp]], CUNY Graduate Center
 2013 – 2014
 
-Website Redesign, [[http://www.aiip.org/][Association of Independent Information Professionals]] (AIIP) 
+Website Redesign, [[http://www.aiip.org/][Association of Independent Information Professionals]] (AIIP)
 2013-2014
 
 Dialogue and Scripting, AI Patient Platform, MATRIC Research
@@ -283,15 +301,15 @@ Getting Started with Python (Foundations for Research Computing, Columbia Univer
 "Open and Accessible: A Critical Distinction" (Teach @ CUNY Day, Summer 2017)
 "Intro to Programming with Python" (GC Digital Research Institute, Fall 2016)
 "Intro to HTML and CSS" (ITP Program, Fall 2016)
-"Introduction to Web Frameworks with Flask" (GC Digital Research Institute, Summer 2016)  
-"Social Media Scraping with the Twitter API" (GC Digital Research Institute, Summer 2016)  
-"Introduction to the Command Line" (GC Digital Research Institute, Summer 2016)  
+"Introduction to Web Frameworks with Flask" (GC Digital Research Institute, Summer 2016)
+"Social Media Scraping with the Twitter API" (GC Digital Research Institute, Summer 2016)
+"Introduction to the Command Line" (GC Digital Research Institute, Summer 2016)
 "Collaboration and Writing Workflows with Git and GitHub" (GC Digital Fellows, Spring 2016)
 "Social Media Scraping with the Twitter API" (NYC Digital Humanities Week, Spring 2016)
 "Intro to Programming with Python" (NYC Digital Humanities Week, Spring 2016)
 "Intro Python with DH Box" (ITP Program, Spring 2016)
 "Responsive Design with Bootstrap" (ITP Program, Spring 2016)
-"Intro to HTML and CSS" (ITP Program, Spring 2016) 
+"Intro to HTML and CSS" (ITP Program, Spring 2016)
 "Automation and Scraping with the Twitter API" (GC Digital Research Bootcamp, Winter 2016)
 "Intro to the Command Line" (GC Digital Fellows/CUNY GC Library, Fall 2015)
 "Setting Up a Development Environment" (GC Digital Praxis Seminar, Fall 2015)
