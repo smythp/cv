@@ -13,30 +13,39 @@ Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/
 
 Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy), 2016
 
-# Positions and Fellowships
+# Positions
+
+Chief Learner / Principal Consultant
+[Iota School](https://iotaschool.com/%0A)
+January 2022 — present
+
+Postdoctoral Fellow in Humanities Entrepreneurship
+[Publics Lab](https://publicslab.gc.cuny.edu/%0A)
+The Graduate Center, CUNY
+August 2021 — August 2022
 
 Program Coordinator, [Foundations for Research Computing](https://rcfoundations.research.columbia.edu/)
 Columbia University
-2019-present
+January 2019 — August 2021
 
 Advisor, [MA Program in Digital Humanities](https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)
 The Graduate Center, CUNY
-2017-2018
+September 2017 — December 2018
 
 Lead Curriculum Designer, Digital Humanities Research Institute
 [Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities), NEH grant
-2017-2018
+September 2017 - August 218
 [View Website](http://dhinstitutes.org)
 [View Curriculum](https://github.com/DHRI-Curriculum)
 [#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab
 CUNY Graduate Center
-2014-2017
+September 2014 — August 2017
 
 Developer and Documentation Specialist, [DH Box](https://dhbox.org/) NEH Startup Grant
 The Graduate Center, CUNY
-2014-2018
+September 2014 — August 2018
 
 # Awards and Grants
 
