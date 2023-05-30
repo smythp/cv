@@ -67,7 +67,7 @@ Astronomy Notebooks for ALl
 2022-present
 
 Enthought Edge Platform Documentation
-[[https://www.enthought.com/%0A][Enthought]]
+[[https://www.enthought.com/][Enthought]]
 2023
 
 Google Summer of Documentation Initiative
