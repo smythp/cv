@@ -25,6 +25,7 @@ Certificate, [[https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-
 Chief Learner / Principal Consultant
 [[https://iotaschool.com/%0A][Iota School]]
 January 2022 — present
+[[#client-list][Client List]]
 
 
 Postdoctoral Fellow in Humanities Entrepreneurship
@@ -56,6 +57,10 @@ The Graduate Center, CUNY
 September 2014 — August 2018
 
 ** Client List
+:PROPERTIES:
+:CUSTOM_ID: client-list
+:END:
+
 
 Astronomy Notebooks for ALl
 [[https://www.stsci.edu/][Space Telescope Science Institute]]
