@@ -55,6 +55,25 @@ Developer and Documentation Specialist, [DH Box](https://dhbox.org/) NEH Startup
 The Graduate Center, CUNY\
 September 2014 --- August 2018
 
+Client List
+-----------
+
+Astronomy Notebooks for ALl\
+[Space Telescope Science Institute](https://www.stsci.edu/)\
+2022-present
+
+Enthought Edge Platform Documentation\
+[Enthought](https://www.enthought.com/%0A)\
+2023
+
+Google Summer of Documentation Initiative\
+[SigStore](https://www.sigstore.dev/)\
+2023
+
+Badging infrastructure Development Project\
+[Hikma Studio](https://www.hikma.studio/)\
+2023
+
 Awards and Grants
 -----------------
 

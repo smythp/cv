@@ -26,6 +26,7 @@ Chief Learner / Principal Consultant
 [[https://iotaschool.com/%0A][Iota School]]
 January 2022 — present
 
+
 Postdoctoral Fellow in Humanities Entrepreneurship
 [[https://publicslab.gc.cuny.edu/%0A][Publics Lab]]
 The Graduate Center, CUNY
@@ -53,6 +54,24 @@ September 2014 — August 2017
 Developer and Documentation Specialist, [[https://dhbox.org/][DH Box]] NEH Startup Grant
 The Graduate Center, CUNY
 September 2014 — August 2018
+
+** Client List
+
+Astronomy Notebooks for ALl
+[[https://www.stsci.edu/][Space Telescope Science Institute]]
+2022-present
+
+Enthought Edge Platform Documentation
+[[https://www.enthought.com/%0A][Enthought]]
+2023
+
+Google Summer of Documentation Initiative
+[[https://www.sigstore.dev/][SigStore]]
+2023
+
+Badging infrastructure Development Project
+[[https://www.hikma.studio/][Hikma Studio]]
+2023
 
 ** Awards and Grants
 Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year
