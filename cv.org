@@ -1,6 +1,7 @@
 #+TITLE: Patrick Smyth CV
-#+OPTIONS: num:nil \n:t html-postamble:nil toc:nil
+#+OPTIONS: num:nil \n:t html-postamble:nil toc:nil line-break:t
 #+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
+#+OPTIONS: line-break:t
 
 :NOTINPDF:
 [[https://github.com/smythp/cv/raw/master/cv.pdf][Download PDF version]]
