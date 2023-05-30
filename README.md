@@ -2,10 +2,6 @@ html-postamble:nil toc:nil line-break:t
 
 line-break:t
 
-::: {.NOTINPDF .drawer}
-[Download PDF version](https://github.com/smythp/cv/raw/master/cv.pdf)
-:::
-
 Education
 ---------
 
@@ -26,10 +22,6 @@ Positions
 Chief Learner / Principal Consultant\
 [Iota School](https://iotaschool.com/%0A)\
 January 2022 --- present
-
-::: {.NOTINPDF .drawer}
-[Client List](#client-list)
-:::
 
 Postdoctoral Fellow in Humanities Entrepreneurship\
 [Publics Lab](https://publicslab.gc.cuny.edu/%0A)\

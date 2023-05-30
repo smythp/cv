@@ -3,9 +3,9 @@
 #+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
 #+OPTIONS: line-break:t
 
-:NOTINPDF:
-[[https://github.com/smythp/cv/raw/master/cv.pdf][Download PDF version]]
-:END:
+# :NOTINPDF:
+# [[https://github.com/smythp/cv/raw/master/cv.pdf][Download PDF version]]
+# :END:
 ** Education
 Ph.D. in English, Graduate Center of the City University of New York (CUNY), 2021
     Faculty Award for Most Distinguished Dissertation of 2021
@@ -25,9 +25,9 @@ Certificate, [[https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-
 Chief Learner / Principal Consultant
 [[https://iotaschool.com/%0A][Iota School]]
 January 2022 — present
-:NOTINPDF:
-[[#client-list][Client List]]
-:END:
+# :NOTINPDF:
+# [[#client-list][Client List]]
+# :END:
 
 Postdoctoral Fellow in Humanities Entrepreneurship
 [[https://publicslab.gc.cuny.edu/%0A][Publics Lab]]
