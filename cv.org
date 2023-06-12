@@ -131,6 +131,9 @@ IGI Global, 2014
 
 
 ** Press
+[[https://astrobites.org/2023/06/10/notebooks-for-all/][Notebooks For All: Making Jupyter Notebooks More Accessible]]
+Astrobites, 2023
+
 [[https://m.gc.cuny.edu/News/Detail?id=60526][A Graduate Center Fellowship That Builds Digital Skills Also Yields Jobs for Alumni]]
 CUNY News, 2021
 
