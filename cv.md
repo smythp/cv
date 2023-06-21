@@ -7,6 +7,7 @@ Education
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY), 2021\
 Faculty Award for Most Distinguished Dissertation of 2021
+Dissertation: "Negotiated Access: Haccessibility, Autonomy, and Infrastructure in the Age of the Abstraction"
 
 Double B.A. in English and German Literature, Kenyon College, Ohio\
 magna cum laude, 2009\
@@ -38,7 +39,7 @@ September 2017 --- December 2018
 
 Lead Curriculum Designer, Digital Humanities Research Institute\
 [Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities), NEH grant\
-September 2017 - August 218\
+September 2017 --- August 2018\
 [View Website](http://dhinstitutes.org)\
 [View Curriculum](https://github.com/DHRI-Curriculum)\
 [\#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)
@@ -56,7 +57,7 @@ Client List
 
 Astronomy Notebooks for ALl\
 [Space Telescope Science Institute](https://www.stsci.edu/)\
-2022-present
+2022 --- present
 
 Enthought Edge Platform Documentation\
 [Enthought](https://www.enthought.com/)\
@@ -83,21 +84,21 @@ CUNY University Student Senate\
 
 Milton F. Steinhardt Memorial Fellowship Award for Best Prospectus\
 Dissertation Year Prize, Graduate Center English Department\
-2018-2019
+2018 --- 2019
 
 Public Humanities Fellowship\
 [Humanities New York](https://humanitiesny.org/)\
 Project: \"Apps for Activists\"\
-2018-2019
+2018 --- 2019
 
 NYCDH Graduate Student Digital Project Award, \"Futures Past Archive\" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))\
 2016
 
 Provost\'s Digital Innovation Grant, \"Futures Past Archive\"\
-2015-2016 and 2016-2017
+2015 --- 2016 and 2016 --- 2017
 
 Digital Writing Fellowship, Qwriting, Queens College\
-2016-2017
+2016 --- 2017
 
 ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center\
 2014
@@ -106,7 +107,7 @@ Graduate Research Assistantship, David Greetham, CUNY Graduate Center\
 2012
 
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany\
-2009-2010
+2009 --- 2010
 
 Publications
 ------------
@@ -143,25 +144,25 @@ Service
 -------
 
 Student Representative, Interactive Technology and Pedagogy Student Liaison Committee\
-2016-2017 and 2017-2018
+2016 --- 2017 and 2017 --- 2018
 
 Student Representative, Graduate Center ADA Compliance Committee\
-2016-2017
+2016 --- 2017
 
 Convener, GC Python User Group (PUG)\
-2015-2017
+2015 --- 2017
 
 Member, English Student Association Website Committee\
-2015-2016
+2015 --- 2016
 
 Chair, GC Digital Research Institute Curriculum Committee\
-2015-2017
+2015 --- 2017
 
 Member, GC Digital Research Bootcamp Steering Committee\
-2015-2017
+2015 --- 2017
 
 Convener, Utopian Studies Seminar, CUNY Graduate Center\
-2012-2015
+2012 --- 2015
 
 Invited Talks
 -------------
@@ -173,13 +174,13 @@ April 17, 2023\
 
 \"Web APIs with Python\"\
 Week-long course, Digital Humanities Summer Institute\
-2018, 2019 - Victoria, British Columbia\
+2018, 2019 --- Victoria, British Columbia\
 [View Materials](https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python)\
 [\#dhsiapi on Twitter](https://twitter.com/search?q=%2523dhsiapi&src=typd)
 
 \"Lightning Talk: DH Box\"\
 NEH Project Director\'s Meeting\
-2015 - Washington, DC
+2015 --- Washington, DC
 
 \"Introducing DH Box\"\
 Media Res: Lightning Talks by NYC Graduate Students on DH Projects\
@@ -205,24 +206,24 @@ Baltimore, MD\
 
 Accessible Notebooks Hackathon\
 Space Telescope Science Institute\
-2023, Online\
+2023 --- Online\
 [Event Page](https://iota-school.github.io/accessibility_hackathon/)\
 [Activity page](https://iota-school.github.io/accessibility_hackathon/hack)\
 [Event Recording](https://www.youtube.com/watch?v=zskT7leTxXM%0A)
 
 STEM access: From author to reader\
 TeX Hour Mini-Conference\
-2023, Online\
+2023 --- Online\
 [Event page](https://texhour.github.io/2023/01/19/stem-access-author-reader/)
 
 \"The Accessible Laboratory\"\
 STEM Pedagogy Institute\
-2022, New York, NY\
+2022 --- New York, NY\
 [View Curriculum](https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory)
 
 \"Rules of Thumb for Computer Security\"\
 New York Amateur Computer Club\
-2017 - New York, NY\
+2017 --- New York, NY\
 [Description](http://nyacc.org/)\
 [Presentation](http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide)
 
@@ -233,34 +234,34 @@ Digital Humanities 2017\
 \"Code and the Codex: E-books as Applications\"\
 [E-book Revolution panel](https://apps.mla.org/program_details?prog_id=75&year=2017)\
 MLA Convention\
-2017 - Philadelphia, PA\
+2017 --- Philadelphia, PA\
 [View slides](http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide)\
 [View notes](https://github.com/smythp/ebooks-as-applications#ebooks-as-applications)
 
 \"DH Box\"\
 [Open Source Lit, Open Source Crit panel](https://text.mla.hcommons.org/)\
 MLA Convention\
-2017 - Philadelphia, PA
+2017 --- Philadelphia, PA
 
 \"GC Digital Initiatives and the Digital Research Institute: Enhancing Student Experience and Access\"\
 CUNY IT Conference\
-2016 - New York, NY
+2016 --- New York, NY
 
 \"Blind Hackers: Accessibility by Other Means\"\
 a11y Accessibility Camp\
-2016 - New York, NY\
+2016 --- New York, NY\
 [Watch video](https://www.youtube.com/watch?v=W8_O3joo4aU)\
 [View slides](http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html)\
 [View notes](https://github.com/smythp/blind-hackers)
 
 \"DH Box: Building Cloud-Based Infrastructure for the Digital Humanities\"\
 Canadian Society for Digital Humanities, Congress 2016\
-2016 - Calgary, Alberta\
+2016 --- Calgary, Alberta\
 (Travel funding from National Endowment for the Humanities)
 
 \"Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change\"\
 HASTAC conference\
-2016 - Tempe, Arizona\
+2016 --- Tempe, Arizona\
 (Travel award from GC Futures Initiative)
 
 \"DH Box: A Digital Humanities Laboratory in the Cloud\"\
@@ -308,7 +309,7 @@ Principal Investigator, Futures Past Archive\
 2015 --- 2017
 
 Maintainer, [Eloud screen reader](https://github.com/smythp/eloud)\
-2016 - 2017
+2016 --- 2017
 
 Developer, [DH Box](http://dhbox.org/), CUNY Graduate Center\
 2014 --- 2018
@@ -317,13 +318,13 @@ Platform Redesign, [Writing Studies Tree](http://www.writingstudiestree.org/), C
 2014 --- 2015
 
 Contributing Historian, [More Than a Mapp](http://www.morethanamapp.org/), CUNY Graduate Center\
-2013 -- 2014
+2013 --- 2014
 
 Website Redesign, [Association of Independent Information Professionals](http://www.aiip.org/) (AIIP)\
-2013-2014
+2013 --- 2014
 
 Dialogue and Scripting, AI Patient Platform, MATRIC Research\
-2012 -- 2013
+2012 --- 2013
 
 Classes Taught
 --------------
