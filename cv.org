@@ -65,7 +65,11 @@ September 2014 — August 2018
 
 Astronomy Notebooks for ALl
 [[https://www.stsci.edu/][Space Telescope Science Institute]]
-2022-present
+2022— present
+
+Digital Humanities Research Infrastructure for Teaching (DHRIFT)
+[[https://www.gc.cuny.edu/%0A][The Grduate center]], City University of New York
+2023 — present
 
 Enthought Edge Platform Documentation
 [[https://www.enthought.com/][Enthought]]

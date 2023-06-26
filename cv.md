@@ -56,7 +56,11 @@ Client List
 
 Astronomy Notebooks for ALl\
 [Space Telescope Science Institute](https://www.stsci.edu/)\
-2022-present
+2022--- present
+
+Digital Humanities Research Infrastructure for Teaching (DHRIFT)\
+[The Grduate center](https://www.gc.cuny.edu/%0A), City University of New York\
+2023 --- present
 
 Enthought Edge Platform Documentation\
 [Enthought](https://www.enthought.com/)\
