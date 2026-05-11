@@ -1,6 +1,7 @@
 
 
-# Education
+Education
+=========
 
 Ph.D. in English, Graduate Center of the City University of New York (CUNY), 2021  
     Faculty Award for Most Distinguished Dissertation of 2021  
@@ -14,7 +15,8 @@ Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/
 Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy), 2016  
 
 
-# Positions
+Positions
+=========
 
 Principal Developer Relations Engineer  
 [Chainguard](https://www.chainguard.dev/)  
@@ -72,7 +74,8 @@ The Graduate Center, CUNY
 September 2014 — August 2018  
 
 
-# Client List
+Client List
+===========
 
 Astronomy Notebooks for All  
 [Space Telescope Science Institute](https://www.stsci.edu/)  
@@ -95,7 +98,8 @@ Badging infrastructure Development Project
 2023 — 2024  
 
 
-# Awards and Grants
+Awards and Grants
+=================
 
 Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year  
 Department of English, The Graduate Center, CUNY  
@@ -133,7 +137,8 @@ Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 2009-2010  
 
 
-# Writing
+Writing
+=======
 
 "Mythos Pulls Zero-Days Forward: Here's What You Need to Know Now"  
 Chainguard Unchained, April 2026  
@@ -181,7 +186,8 @@ dh+lib, 2017
 IGI Global, 2014  
 
 
-# Press
+Press
+=====
 
 [Notebooks For All: Making Jupyter Notebooks More Accessible](https://astrobites.org/2023/06/10/notebooks-for-all/)  
 Astrobites, 2023  
@@ -196,7 +202,8 @@ Phi Beta Kappa website, 2017
 PC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.org/).)  
 
 
-# Service
+Service
+=======
 
 Student Representative, Interactive Technology and Pedagogy Student Liaison Committee  
 2016-2017 and 2017-2018  
@@ -220,7 +227,8 @@ Convener, Utopian Studies Seminar, CUNY Graduate Center
 2012-2015  
 
 
-# Talks
+Talks
+=====
 
 "Takeaways from Major Software Supply Chain Attacks" (webinar)  
 Chainguard  
@@ -326,7 +334,7 @@ Week-long course, Digital Humanities Summer Institute
 
 "Rules of Thumb for Computer Security"  
 New York Amateur Computer Club  
-2017 - New York, NY  
+2017 — New York, NY  
 [Description](http://nyacc.org/)  
 [Presentation](http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide)  
 
@@ -337,34 +345,34 @@ Digital Humanities 2017
 "Code and the Codex: E-books as Applications"  
 [E-book Revolution panel](https://apps.mla.org/program_details?prog_id=75&year=2017)  
 MLA Convention  
-2017 - Philadelphia, PA  
+2017 — Philadelphia, PA  
 [View slides](http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide)  
 [View notes](https://github.com/smythp/ebooks-as-applications#ebooks-as-applications)  
 
 "DH Box"  
 [Open Source Lit, Open Source Crit panel](https://text.mla.hcommons.org/)  
 MLA Convention  
-2017 - Philadelphia, PA  
+2017 — Philadelphia, PA  
 
 "GC Digital Initiatives and the Digital Research Institute: Enhancing Student Experience and Access"  
 CUNY IT Conference  
-2016 - New York, NY  
+2016 — New York, NY  
 
 "Blind Hackers: Accessibility by Other Means"  
 a11y Accessibility Camp  
-2016 - New York, NY  
+2016 — New York, NY  
 [Watch video](https://www.youtube.com/watch?v=W8_O3joo4aU)  
 [View slides](http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html)  
 [View notes](https://github.com/smythp/blind-hackers)  
 
 "DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"  
 Canadian Society for Digital Humanities, Congress 2016  
-2016 - Calgary, Alberta  
+2016 — Calgary, Alberta  
 (Travel funding from National Endowment for the Humanities)  
 
 "Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change"  
 HASTAC conference  
-2016 - Tempe, Arizona  
+2016 — Tempe, Arizona  
 (Travel award from GC Futures Initiative)  
 
 "Lightning Talk: DH Box"  
@@ -413,7 +421,8 @@ Northeast Modern Language Association Conference (NeMLA)
 2013 — Boston, MA  
 
 
-# Projects
+Projects
+========
 
 Project Lead, [NEH Impact Index](http://www.nehimpact.org/)  
 2017  
@@ -442,16 +451,20 @@ Dialogue and Scripting, AI Patient Platform, MATRIC Research
 2012 – 2013  
 
 
-# Classes Taught
+Classes Taught
+==============
 
 Software Design Lab, MA Program in Digital Humanities, The Graduate Center, Spring 2019  
 Literature and Place: Imagining Utopia, Queens College, Spring 2014  
 Intro Composition (Information Technology theme), Queens College, Spring 2014  
-Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013  
+Intro Composition (Evolutionary Science theme), Queens College x2, Fall 2013  
 
 
-# Workshops Taught
+Workshops Taught
+================
 
+"Securing the AI/ML Supply Chain" course launch (Chainguard, July–August 2024)  
+"Pandas Sonification" five-workshop series, NumFOCUS small development grant (Iota School, January–March 2024, 400+ participants)  
 Getting Started with Python (Foundations for Research Computing, Columbia University, spring 2021)  
 "Pandas: The Bare Basics" (Columbia Python User Group, fall 2019)  
 "An Introduction to Static Sites with Jekyll" (Digital Humanities Research Institute, summer 2018)  
@@ -483,13 +496,14 @@ Getting Started with Python (Foundations for Research Computing, Columbia Univer
 “WordPress: Theming and Design,” CUNY Graduate Center ITP Program, Spring 2013  
 
 
-# Technical Skills
+Technical Skills
+================
 
-Frontend Frameworks: Bulma, Bootstrap, React  
-Analytics: Jupyter, NLTK, NumPy/SciPy, Spacy, Pandas, scikit-learn  
-Web Scraping: Scrapy, BeautifulSoup  
-Web Frameworks: Flask, Django  
-CMS / Static Site Generators: Jekyll, Hugo, WordPress, Drupal  
-Databases: mySQL, SQLite, PostgreSQL  
+ML Infra: PyTorch, CUDA, NeMo, Pydantic AI, MCP  
+Agentic: Harness design, evals, multiagent flows  
 Ops: Docker, Unix, Git  
+Data Science: Jupyter, NLTK, NumPy/SciPy, spaCy, Pandas, scikit-learn  
+Web Frameworks: Flask, Django  
+CMS / Static Site Generators: Jekyll, Hugo, WordPress  
+Databases: MySQL, SQLite, PostgreSQL  
 

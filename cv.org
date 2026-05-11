@@ -330,7 +330,7 @@ Week-long course, Digital Humanities Summer Institute
 
 "Rules of Thumb for Computer Security"
 New York Amateur Computer Club
-2017 - New York, NY
+2017 — New York, NY
 [[http://nyacc.org/][Description]]
 [[http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide][Presentation]]
 
@@ -341,34 +341,34 @@ Digital Humanities 2017
 "Code and the Codex: E-books as Applications"
 [[https://apps.mla.org/program_details?prog_id=75&year=2017][E-book Revolution panel]]
 MLA Convention
-2017 - Philadelphia, PA
+2017 — Philadelphia, PA
 [[http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide][View slides]]
 [[https://github.com/smythp/ebooks-as-applications#ebooks-as-applications][View notes]]
 
 "DH Box"
 [[https://text.mla.hcommons.org/][Open Source Lit, Open Source Crit panel]]
 MLA Convention
-2017 - Philadelphia, PA
+2017 — Philadelphia, PA
 
 "GC Digital Initiatives and the Digital Research Institute: Enhancing Student Experience and Access"
 CUNY IT Conference
-2016 - New York, NY
+2016 — New York, NY
 
 "Blind Hackers: Accessibility by Other Means"
 a11y Accessibility Camp
-2016 - New York, NY
+2016 — New York, NY
 [[https://www.youtube.com/watch?v=W8_O3joo4aU][Watch video]]
 [[http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html][View slides]]
 [[https://github.com/smythp/blind-hackers][View notes]]
 
 "DH Box: Building Cloud-Based Infrastructure for the Digital Humanities"
 Canadian Society for Digital Humanities, Congress 2016
-2016 - Calgary, Alberta
+2016 — Calgary, Alberta
 (Travel funding from National Endowment for the Humanities)
 
 "Building the University Worth Fighting For: Tools for Pedagogical, Institutional, and Social Change"
 HASTAC conference
-2016 - Tempe, Arizona
+2016 — Tempe, Arizona
 (Travel award from GC Futures Initiative)
 
 "Lightning Talk: DH Box"
@@ -448,9 +448,11 @@ Dialogue and Scripting, AI Patient Platform, MATRIC Research
 Software Design Lab, MA Program in Digital Humanities, The Graduate Center, Spring 2019
 Literature and Place: Imagining Utopia, Queens College, Spring 2014
 Intro Composition (Information Technology theme), Queens College, Spring 2014
-Intro Composition (Evolutionary Science theme), Queens College  x2, Fall 2013
+Intro Composition (Evolutionary Science theme), Queens College x2, Fall 2013
 
 ** Workshops Taught
+"Securing the AI/ML Supply Chain" course launch (Chainguard, July–August 2024)
+"Pandas Sonification" five-workshop series, NumFOCUS small development grant (Iota School, January–March 2024, 400+ participants)
 Getting Started with Python (Foundations for Research Computing, Columbia University, spring 2021)
 "Pandas: The Bare Basics" (Columbia Python User Group, fall 2019)
 "An Introduction to Static Sites with Jekyll" (Digital Humanities Research Institute, summer 2018)
@@ -483,10 +485,10 @@ Getting Started with Python (Foundations for Research Computing, Columbia Univer
 
 ** Technical Skills
 
-Frontend Frameworks: Bulma, Bootstrap, React
-Analytics: Jupyter, NLTK, NumPy/SciPy, Spacy, Pandas, scikit-learn
-Web Scraping: Scrapy, BeautifulSoup
-Web Frameworks: Flask, Django
-CMS / Static Site Generators: Jekyll, Hugo, WordPress, Drupal
-Databases: mySQL, SQLite, PostgreSQL
+ML Infra: PyTorch, CUDA, NeMo, Pydantic AI, MCP
+Agentic: Harness design, evals, multiagent flows
 Ops: Docker, Unix, Git
+Data Science: Jupyter, NLTK, NumPy/SciPy, spaCy, Pandas, scikit-learn
+Web Frameworks: Flask, Django
+CMS / Static Site Generators: Jekyll, Hugo, WordPress
+Databases: MySQL, SQLite, PostgreSQL
