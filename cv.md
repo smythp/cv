@@ -22,14 +22,14 @@ Principal Developer Relations Engineer
 [Chainguard](https://www.chainguard.dev/)  
 October 2025 — present  
 
+-   Influence revenue through vehicles such as Learning Lab, the Assemble 2025 customer conference, and 1-1 work with customers; have driven $16.5m ARR to date.
+-   Present at conferences including PyCon, RSAC, and SwampUP. All accepted through organic community CFP processes, not sponsored.
+-   Work flexibly to fill perceived gaps, including pinch-hitting as a PM on AI initiatives, jumping on customer calls to provide domain expertise, and leading technical development for a critical website.
+-   Develop extensive content in the form of videos, LinkedIn posts, course modules, deep dives, tutorials, and breakout sessions.
+
 Staff Developer Relations Engineer  
 [Chainguard](https://www.chainguard.dev/)  
 March 2024 — October 2025  
-
--   Influenced $16.5m ARR through vehicles such as Learning Lab, the Assemble 2025 customer conference, and 1-1 work with customers.
--   Presented at conferences including PyCon, RSAC, and SwampUP 2024, winning Best Speaker at SwampUP 2024. All accepted through organic community CFP processes, not sponsored.
--   Worked flexibly to fill perceived gaps, including pinch-hitting as a PM on AI initiatives, jumping on customer calls to provide domain expertise, and leading technical development for a critical website.
--   Developed extensive content in the form of videos, LinkedIn posts, course modules, deep dives, tutorials, and breakout sessions.
 
 Chief Learner / Principal Consultant  
 [Iota School](https://iotaschool.com/)  
@@ -74,69 +74,6 @@ The Graduate Center, CUNY
 September 2014 — August 2018  
 
 
-Client List
-===========
-
-Astronomy Notebooks for All  
-[Space Telescope Science Institute](https://www.stsci.edu/)  
-2022 — 2024  
-
-Digital Humanities Research Infrastructure for Teaching (DHRIFT)  
-[The Graduate Center](https://www.gc.cuny.edu/), City University of New York  
-2023 — 2024  
-
-Enthought Edge Platform Documentation  
-[Enthought](https://www.enthought.com/)  
-2023  
-
-Google Summer of Documentation Initiative  
-[SigStore](https://www.sigstore.dev/)  
-2023 — 2024  
-
-Badging infrastructure Development Project  
-[Hikma Studio](https://www.hikma.studio/)  
-2023 — 2024  
-
-
-Awards and Grants
-=================
-
-Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year  
-Department of English, The Graduate Center, CUNY  
-2021  
-
-Donald and Mary Ellen Passantino Students with Disabilities Award  
-CUNY University Student Senate  
-2018  
-
-Milton F. Steinhardt Memorial Fellowship Award for Best Prospectus  
-Dissertation Year Prize, Graduate Center English Department  
-2018-2019  
-
-Public Humanities Fellowship  
-[Humanities New York](https://humanitiesny.org/)  
-Project: "Apps for Activists"  
-2018-2019  
-
-NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
-2016  
-
-Provost's Digital Innovation Grant, "Futures Past Archive"  
-2015-2016 and 2016-2017  
-
-Digital Writing Fellowship, Qwriting, Queens College  
-2016-2017  
-
-ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center  
-2014  
-
-Graduate Research Assistantship, David Greetham, CUNY Graduate Center  
-2012  
-
-Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany  
-2009-2010  
-
-
 Writing
 =======
 
@@ -152,8 +89,8 @@ Chainguard Unchained, April 2026
 Chainguard Unchained, April 2026  
 [Read article](https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build)  
 
-"Going Deep: Upstream Distros and Hidden CVEs" (co-authored with Chainguard Research)  
-Chainguard Unchained, February 2026  
+"Going Deep: Upstream Distros and Hidden CVEs"  
+Chainguard Unchained / Chainguard Research, February 2026  
 [Read article](https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves)  
 
 "The Maturity Gap in ML Pipeline Infrastructure"  
@@ -184,47 +121,6 @@ dh+lib, 2017
 
 “Ebooks and the Digital Paratext: Emerging Trends in the Interpretation of Digital Media” in Examining Paratextual Theory and its Applications in Digital Culture  
 IGI Global, 2014  
-
-
-Press
-=====
-
-[Notebooks For All: Making Jupyter Notebooks More Accessible](https://astrobites.org/2023/06/10/notebooks-for-all/)  
-Astrobites, 2023  
-
-[A Graduate Center Fellowship That Builds Digital Skills Also Yields Jobs for Alumni](https://m.gc.cuny.edu/News/Detail?id=60526)  
-CUNY News, 2021  
-
-[Behind the Key — Patrick Smyth](https://www.pbk.org/Behind-the-Key/Patrick-Smyth)  
-Phi Beta Kappa website, 2017  
-
-["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
-PC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.org/).)  
-
-
-Service
-=======
-
-Student Representative, Interactive Technology and Pedagogy Student Liaison Committee  
-2016-2017 and 2017-2018  
-
-Student Representative, Graduate Center ADA Compliance Committee  
-2016-2017  
-
-Convener, GC Python User Group (PUG)  
-2015-2017  
-
-Member, English Student Association Website Committee  
-2015-2016  
-
-Chair, GC Digital Research Institute Curriculum Committee  
-2015-2017  
-
-Member, GC Digital Research Bootcamp Steering Committee  
-2015-2017  
-
-Convener, Utopian Studies Seminar, CUNY Graduate Center  
-2012-2015  
 
 
 Talks
@@ -285,8 +181,6 @@ September 2024 — San Francisco, CA
 "Securing the Foundations of AI Applications"  
 JFrog SwampUP 2024  
 September 2024  
-(Carl Quinn Speaker Award winner)  
-[Award announcement](https://www.linkedin.com/posts/jfrog-ltd_swampup-activity-7240130790234169344-k2--)  
 
 "Zero CVE CUDA Chainguard Images"  
 Austin Kubernetes meetup  
@@ -421,6 +315,114 @@ Northeast Modern Language Association Conference (NeMLA)
 2013 — Boston, MA  
 
 
+Client List
+===========
+
+Astronomy Notebooks for All  
+[Space Telescope Science Institute](https://www.stsci.edu/)  
+2022 — 2024  
+
+Digital Humanities Research Infrastructure for Teaching (DHRIFT)  
+[The Graduate Center](https://www.gc.cuny.edu/), City University of New York  
+2023 — 2024  
+
+Enthought Edge Platform Documentation  
+[Enthought](https://www.enthought.com/)  
+2023  
+
+Google Summer of Documentation Initiative  
+[SigStore](https://www.sigstore.dev/)  
+2023 — 2024  
+
+Badging infrastructure Development Project  
+[Hikma Studio](https://www.hikma.studio/)  
+2023 — 2024  
+
+
+Awards and Grants
+=================
+
+Carl Quinn Speaker Award  
+JFrog SwampUP 2024  
+[Award announcement](https://www.linkedin.com/posts/jfrog-ltd_swampup-activity-7240130790234169344-k2--)  
+
+Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year  
+Department of English, The Graduate Center, CUNY  
+2021  
+
+Donald and Mary Ellen Passantino Students with Disabilities Award  
+CUNY University Student Senate  
+2018  
+
+Milton F. Steinhardt Memorial Fellowship Award for Best Prospectus  
+Dissertation Year Prize, Graduate Center English Department  
+2018-2019  
+
+Public Humanities Fellowship  
+[Humanities New York](https://humanitiesny.org/)  
+Project: "Apps for Activists"  
+2018-2019  
+
+NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
+2016  
+
+Provost's Digital Innovation Grant, "Futures Past Archive"  
+2015-2016 and 2016-2017  
+
+Digital Writing Fellowship, Qwriting, Queens College  
+2016-2017  
+
+ARC Praxis Fellowship, Advanced Research Collaborative, CUNY Graduate Center  
+2014  
+
+Graduate Research Assistantship, David Greetham, CUNY Graduate Center  
+2012  
+
+Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany  
+2009-2010  
+
+
+Press
+=====
+
+[Notebooks For All: Making Jupyter Notebooks More Accessible](https://astrobites.org/2023/06/10/notebooks-for-all/)  
+Astrobites, 2023  
+
+[A Graduate Center Fellowship That Builds Digital Skills Also Yields Jobs for Alumni](https://m.gc.cuny.edu/News/Detail?id=60526)  
+CUNY News, 2021  
+
+[Behind the Key — Patrick Smyth](https://www.pbk.org/Behind-the-Key/Patrick-Smyth)  
+Phi Beta Kappa website, 2017  
+
+["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
+PC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.org/).)  
+
+
+Service
+=======
+
+Student Representative, Interactive Technology and Pedagogy Student Liaison Committee  
+2016-2017 and 2017-2018  
+
+Student Representative, Graduate Center ADA Compliance Committee  
+2016-2017  
+
+Convener, GC Python User Group (PUG)  
+2015-2017  
+
+Member, English Student Association Website Committee  
+2015-2016  
+
+Chair, GC Digital Research Institute Curriculum Committee  
+2015-2017  
+
+Member, GC Digital Research Bootcamp Steering Committee  
+2015-2017  
+
+Convener, Utopian Studies Seminar, CUNY Graduate Center  
+2012-2015  
+
+
 Projects
 ========
 
@@ -464,7 +466,7 @@ Workshops Taught
 ================
 
 "Securing the AI/ML Supply Chain" course launch (Chainguard, July–August 2024)  
-"Pandas Sonification" five-workshop series, NumFOCUS small development grant (Iota School, January–March 2024, 400+ participants)  
+[Nonvisual Data Science Workshops](https://iota-school.github.io/nonvisual_data_science_workshops/), NumFOCUS small development grant (Iota School, January–March 2024, 400+ participants)  
 Getting Started with Python (Foundations for Research Computing, Columbia University, spring 2021)  
 "Pandas: The Bare Basics" (Columbia Python User Group, fall 2019)  
 "An Introduction to Static Sites with Jekyll" (Digital Humanities Research Institute, summer 2018)  
