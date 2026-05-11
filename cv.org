@@ -23,21 +23,44 @@ Certificate, [[https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-
 
 ** Positions
 
+Principal Developer Relations Engineer
+[[https://www.chainguard.dev/][Chainguard]]
+October 2025 — present
+
+Staff Developer Relations Engineer
+[[https://www.chainguard.dev/][Chainguard]]
+March 2024 — October 2025
+
+- Influenced $16.5m ARR through vehicles such as Learning Lab, the Assemble 2025 customer conference, and 1-1 work with customers.
+- Presented at conferences including PyCon, RSAC, and SwampUP 2024, winning Best Speaker at SwampUP 2024. All accepted through organic community CFP processes, not sponsored.
+- Worked flexibly to fill perceived gaps, including pinch-hitting as a PM on AI initiatives, jumping on customer calls to provide domain expertise, and leading technical development for a critical website.
+- Developed extensive content in the form of videos, LinkedIn posts, course modules, deep dives, tutorials, and breakout sessions.
+
 Chief Learner / Principal Consultant
-[[https://iotaschool.com/%0A][Iota School]]
-January 2022 — present
+[[https://iotaschool.com/][Iota School]]
+August 2021 — March 2025
+
+- Received a development grant from Pandas / NumFOCUS to document, lead, and record a five-workshop series on data science fundamentals and sonification with over 400 participants.
+- Worked with a Jupyter core developer and research astronomers to improve web-based notebook exports at James Webb and MAST; presented on the project at JupyterCon 2023 in Paris.
+- Replatformed the docs site and updated documentation for Sigstore as a Google Season of Docs technical writer.
+- Created a series of tutorials on deploying neural networks for object recognition as demo materials for a data science platform under development at Enthought.
 # :NOTINPDF:
 # [[#client-list][Client List]]
 # :END:
 
 Postdoctoral Fellow in Humanities Entrepreneurship
-[[https://publicslab.gc.cuny.edu/%0A][Publics Lab]]
+[[https://publicslab.gc.cuny.edu/][Publics Lab]]
 The Graduate Center, CUNY
 August 2021 — August 2022
 
-Program Coordinator, [[https://rcfoundations.research.columbia.edu/][Foundations for Research Computing]]
+Research Software Engineer, [[https://rcfoundations.research.columbia.edu/][Foundations for Research Computing]]
 Columbia University
 January 2019 — August 2021
+
+- Managed a team of staff, faculty, and graduate student instructors to teach over 85 technical workshops for 3,000+ researchers.
+- Developed new programming including a Curriculum Innovation Grant, intermediate intensives on NLP and ML in cooperation with Google Research, and a popular Python User Group.
+- Worked with Columbia's Data Science Institute, X (formerly Google X), and the TensorFlow team to develop technical training.
+- Led workshops on UNIX, scraping, data science fundamentals, visualization, accessing APIs, and ML with scikit-learn.
 
 Advisor, [[https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities][MA Program in Digital Humanities]]
 The Graduate Center, CUNY
@@ -45,7 +68,7 @@ September 2017 — December 2018
 
 Lead Curriculum Designer, Digital Humanities Research Institute
 [[https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities][Institutes for Advanced Topics in the Digital Humanities]], NEH grant
-September 2017 - August 218
+September 2017 — August 2018
 [[http://dhinstitutes.org][View Website]]
 [[https://github.com/DHRI-Curriculum][View Curriculum]]
 [[https://twitter.com/search?q=%2523dhri&src=tyah][#DHRI on Twitter]]
@@ -64,13 +87,13 @@ September 2014 — August 2018
 :END:
 
 
-Astronomy Notebooks for ALl
+Astronomy Notebooks for All
 [[https://www.stsci.edu/][Space Telescope Science Institute]]
-2022— present
+2022 — 2024
 
 Digital Humanities Research Infrastructure for Teaching (DHRIFT)
-[[https://www.gc.cuny.edu/%0A][The Grduate center]], City University of New York
-2023 — present
+[[https://www.gc.cuny.edu/][The Graduate Center]], City University of New York
+2023 — 2024
 
 Enthought Edge Platform Documentation
 [[https://www.enthought.com/][Enthought]]
@@ -78,11 +101,11 @@ Enthought Edge Platform Documentation
 
 Google Summer of Documentation Initiative
 [[https://www.sigstore.dev/][SigStore]]
-2023
+2023 — 2024
 
 Badging infrastructure Development Project
 [[https://www.hikma.studio/][Hikma Studio]]
-2023
+2023 — 2024
 
 ** Awards and Grants
 Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year
@@ -120,7 +143,39 @@ Graduate Research Assistantship, David Greetham, CUNY Graduate Center
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany
 2009-2010
 
-** Publications
+** Writing
+"Mythos Pulls Zero-Days Forward: Here's What You Need to Know Now"
+Chainguard Unchained, April 2026
+[[https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now][Read article]]
+
+"2026: The Year of AI-Assisted Attacks"
+Chainguard Unchained, April 2026
+[[https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks][Read article]]
+
+"Attacks Rewritten: Where Malware Enters the Build" (with Manfred Moser)
+Chainguard Unchained, April 2026
+[[https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build][Read article]]
+
+"Going Deep: Upstream Distros and Hidden CVEs" (co-authored with Chainguard Research)
+Chainguard Unchained, February 2026
+[[https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves][Read article]]
+
+"The Maturity Gap in ML Pipeline Infrastructure"
+Chainguard Unchained, January 2026
+[[https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure][Read article]]
+
+"The Only Rule: Don't Look at the Code" (Chainguard Vibelympics retrospective)
+Chainguard Unchained, December 2025
+[[https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code][Read article]]
+
+"Deep Dive: Where Does Grype Data Come From?"
+Chainguard / dev.to, November 2024
+[[https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e][Read article]]
+
+"Securely Containerize a Python Application with Chainguard Images"
+Chainguard / dev.to, April 2024
+[[https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8][Read article]]
+
 "Double Take: A Memoir." Couser, G. Thomas, and Susannah B. Mintz, editors. Disability Experiences: Memoirs, Autobiographies, and Other Personal Narratives. 2019. (review)
 
 "Creating Web APIs with Python and Flask"
@@ -169,33 +224,70 @@ Member, GC Digital Research Bootcamp Steering Committee
 
 Convener, Utopian Studies Seminar, CUNY Graduate Center
 2012-2015
-** Invited Talks
-"Haccessibility for All"
-arXiv Accessibility Forum 2023
-April 17, 2023
-[[https://www.youtube.com/watch?v=1v3jFCWQfI8][View Recording]]
+** Talks
 
+"Takeaways from Major Software Supply Chain Attacks" (webinar)
+Chainguard
+May 12, 2026
+[[https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355][Webinar registration]]
 
-"Web APIs with Python"
-Week-long course, Digital Humanities Summer Institute
-2018, 2019 - Victoria, British Columbia
-[[https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python][View Materials]]
-[[https://twitter.com/search?q=%2523dhsiapi&src=typd][#dhsiapi on Twitter]]
+"Securing ML Pipelines: Way More Than You Wanted to Know" (workshop, with Kalle Westerling)
+RSAC Conference 2026
+March 2026 — San Francisco, CA
 
-"Lightning Talk: DH Box"
-NEH Project Director's Meeting
-2015 - Washington, DC
+"Attacks Rewritten: Where Malware Enters the Build" (with Manfred Moser)
+Chainguard Assemble 2026
+March 17, 2026 — New York, NY
+[[https://www.youtube.com/watch?v=hgZQvy9dUOU][Recording]]
+[[https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build][Blog post]]
 
-"Introducing DH Box"
-Media Res: Lightning Talks by NYC Graduate Students on DH Projects
-2015 — New York, NY
+"Dispelling the Myths of Advisory Feeds" (with Konstantinos "Gus" Evangelakos, Orca Security)
+Chainguard Assemble 2026
+March 17, 2026 — New York, NY
+[[https://www.youtube.com/watch?v=DYyEXLwKT2U][Recording]]
 
-“DH Box: A Push-Button Digital Humanities Laboratory”
-METRO Conference
-2015 — New York, NY
+"Agent Omelets & Other Forbidden Techniques"
+AI Native Dev DevCon Fall 2025
+November 2025
+[[https://www.youtube.com/watch?v=MBbN4-UxKp4][Recording]]
 
-** Presentations
+"Frankenpipe: Bringing Secure ML Pipelines to Life"
+All Things Open 2025
+October 2025 — Raleigh, NC
+[[https://www.youtube.com/watch?v=jefbTBfl9Ps][Recording]]
+[[https://2025.allthingsopen.org/sessions/frankenpipe-bringing-secure-ml-pipelines-to-life][Session page]]
 
+"Deploy Secure Containers on Amazon EKS with Chainguard" (webinar, with Sai Vennam, AWS)
+Chainguard / AWS
+August 2025
+[[https://www.youtube.com/watch?v=BknFieQXSqA][Recording]]
+
+"Cheese Must Stand: Defending the Python Library Ecosystem"
+PyCon US 2025
+May 2025 — Pittsburgh, PA
+[[https://www.youtube.com/watch?v=5cdC5pVkCvU][Recording]]
+
+"The Old, the New, and the Strange: Securing Deep Learning"
+Chainguard Assemble 2025
+March 2025 — San Francisco, CA
+[[https://www.youtube.com/watch?v=hmhKWjOyI0U][Recording]]
+
+"Beyond Zero: Eliminating Vulnerabilities in the PyTorch Container Image" (lightning talk, with Dan Fernandez and Srishti Hegde)
+PyTorch Conference 2024
+September 2024 — San Francisco, CA
+[[https://www.youtube.com/watch?v=1klynk1dxYA][Recording]]
+[[https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/][Materials]]
+
+"Securing the Foundations of AI Applications"
+JFrog SwampUP 2024
+September 2024
+(Carl Quinn Speaker Award winner)
+[[https://www.linkedin.com/posts/jfrog-ltd_swampup-activity-7240130790234169344-k2--][Award announcement]]
+
+"Zero CVE CUDA Chainguard Images"
+Austin Kubernetes meetup
+May 17, 2024
+[[https://www.youtube.com/watch?v=Ry-kNHHmB_0][Recording]]
 
 Notebooks for All: Accessibility & Jupyter Notebooks
 JupyterCon 2023
@@ -213,7 +305,12 @@ Space Telescope Science Institute
 2023, Online
 [[https://iota-school.github.io/accessibility_hackathon/][Event Page]]
 [[https://iota-school.github.io/accessibility_hackathon/hack][Activity page]]
-[[https://www.youtube.com/watch?v=zskT7leTxXM%0A][Event Recording]]
+[[https://www.youtube.com/watch?v=zskT7leTxXM][Event Recording]]
+
+"Haccessibility for All"
+arXiv Accessibility Forum 2023
+April 17, 2023
+[[https://www.youtube.com/watch?v=1v3jFCWQfI8][View Recording]]
 
 STEM access: From author to reader
 TeX Hour Mini-Conference
@@ -224,6 +321,12 @@ TeX Hour Mini-Conference
 STEM Pedagogy Institute
 2022, New York, NY
 [[https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory][View Curriculum]]
+
+"Web APIs with Python"
+Week-long course, Digital Humanities Summer Institute
+2018, 2019 - Victoria, British Columbia
+[[https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python][View Materials]]
+[[https://twitter.com/search?q=%2523dhsiapi&src=typd][#dhsiapi on Twitter]]
 
 "Rules of Thumb for Computer Security"
 New York Amateur Computer Club
@@ -268,6 +371,18 @@ HASTAC conference
 2016 - Tempe, Arizona
 (Travel award from GC Futures Initiative)
 
+"Lightning Talk: DH Box"
+NEH Project Director's Meeting
+2015 — Washington, DC
+
+"Introducing DH Box"
+Media Res: Lightning Talks by NYC Graduate Students on DH Projects
+2015 — New York, NY
+
+"DH Box: A Push-Button Digital Humanities Laboratory"
+METRO Conference
+2015 — New York, NY
+
 "DH Box: A Digital Humanities Laboratory in the Cloud"
 CUNY DHI: Building a Digital Humanities Community
 2015 — New York, New York
@@ -298,7 +413,7 @@ CUNY IT Conference
 2014 — New York, New York
 
 “Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century”
-Northeast Modern Language Associate Conference (NeMLA)
+Northeast Modern Language Association Conference (NeMLA)
 2013 — Boston, MA
 
 ** Projects
