@@ -190,7 +190,7 @@ May 17, 2024
 Notebooks for All: Accessibility & Jupyter Notebooks  
 JupyterCon 2023  
 Paris, France  
-[Description](https://cfp.jupytercon.com/2023/talk/J97H8N/)  
+[Recording](https://www.youtube.com/watch?v=LJMS9R-KFXQ)  
 
 Day of Accessibility  
 Space Telescope Science Institute  
