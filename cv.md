@@ -363,7 +363,7 @@ Public Humanities Fellowship
 Project: "Apps for Activists"  
 2018-2019  
 
-NYCDH Graduate Student Digital Project Award, "Futures Past Archive" ([Second place](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/))  
+[NYCDH Graduate Student Digital Project Award](https://nycdh.org/nyc-dh-graduate-student-project-award/), "Futures Past Archive" (Second place)  
 2016  
 
 Provost's Digital Innovation Grant, "Futures Past Archive"  
