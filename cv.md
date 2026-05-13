@@ -63,7 +63,7 @@ Lead Curriculum Designer, Digital Humanities Research Institute
 September 2017 — August 2018  
 [View Website](http://dhinstitutes.org)  
 [View Curriculum](https://github.com/DHRI-Curriculum)  
-[#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)  
+[#DHRI on Twitter](https://x.com/search?q=%2523dhri&src=tyah)  
 
 Digital Initiatives Fellowship, GC Digital Scholarship Lab  
 CUNY Graduate Center  
@@ -224,7 +224,7 @@ STEM Pedagogy Institute
 Week-long course, Digital Humanities Summer Institute  
 2018, 2019 - Victoria, British Columbia  
 [View Materials](https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python)  
-[#dhsiapi on Twitter](https://twitter.com/search?q=%2523dhsiapi&src=typd)  
+[#dhsiapi on Twitter](https://x.com/search?q=%2523dhsiapi&src=typd)  
 
 "Rules of Thumb for Computer Security"  
 New York Amateur Computer Club  
@@ -428,7 +428,7 @@ Projects
 
 Project Lead, [NEH Impact Index](http://www.nehimpact.org/)  
 2017  
-[Site](http://www.nehimpact.org/) | [FAQ](http://www.nehimpact.org/faq) | [Blog post](https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/) | [Twitter](https://twitter.com/psmyth01/status/851505002900336644)  
+[Site](http://www.nehimpact.org/) | [FAQ](http://www.nehimpact.org/faq) | [Blog post](https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/) | [Twitter](https://x.com/psmyth01/status/851505002900336644)  
 [PC Magazine Coverage](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
 
 Principal Investigator, Futures Past Archive  
