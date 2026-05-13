@@ -10,7 +10,7 @@ Double B.A. in English and German Literature, Kenyon College, Ohio
 	magna cum laude, 2009  
 	Highest Honors in English (Honors thesis)  
 
-Certified Instructor, [Software Carpentry](https://software-carpentry.org/about/), 2017  
+Certified Instructor, [Software Carpentry](https://carpentries.org/about-us/#our-mission), 2017  
 
 Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy), 2016  
 
@@ -218,7 +218,7 @@ TeX Hour Mini-Conference
 "The Accessible Laboratory"  
 STEM Pedagogy Institute  
 2022, New York, NY  
-[View Curriculum](https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory)  
+[Watch Recording](https://www.youtube.com/watch?v=dnt6rgHlz74)  
 
 "Web APIs with Python"  
 Week-long course, Digital Humanities Summer Institute  
@@ -391,7 +391,7 @@ Astrobites, 2023
 [A Graduate Center Fellowship That Builds Digital Skills Also Yields Jobs for Alumni](https://m.gc.cuny.edu/News/Detail?id=60526)  
 CUNY News, 2021  
 
-[Behind the Key — Patrick Smyth](https://www.pbk.org/Behind-the-Key/Patrick-Smyth)  
+[Behind the Key — Patrick Smyth](https://www.pbk.org/patrick-smyth)  
 Phi Beta Kappa website, 2017  
 
 ["Trump Budget Slashes NEH Funding: Why You Should Care"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)  
