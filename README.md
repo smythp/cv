@@ -443,7 +443,7 @@ Developer, [DH Box](http://dhbox.org/), CUNY Graduate Center
 Platform Redesign, [Writing Studies Tree](http://www.writingstudiestree.org/), CUNY Graduate Center  
 2014 — 2015  
 
-Contributing Historian, [More Than a Mapp](http://www.morethanamapp.org/), CUNY Graduate Center  
+Contributing Historian, More Than a Mapp, CUNY Graduate Center  
 2013 – 2014  
 
 Website Redesign, [Association of Independent Information Professionals](http://www.aiip.org/) (AIIP)  
